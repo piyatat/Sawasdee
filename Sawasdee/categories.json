@@ -1,0 +1,55 @@
+{
+    "CATEGORIES": [
+                   
+                   {
+                   "NAME": "introduction",
+                   "DESCRIPTION":""
+                   },
+                   
+                   {
+                   "NAME": "food",
+                   "DESCRIPTION":""
+                   },
+                   
+                   {
+                   "NAME": "greetings",
+                   "DESCRIPTION":""
+                   },
+                   
+                   {
+                   "NAME": "place",
+                   "DESCRIPTION":""
+                   },
+                   
+                   {
+                   "NAME": "transportation",
+                   "DESCRIPTION":""
+                   },
+                   
+                   {
+                   "NAME": "number",
+                   "DESCRIPTION":""
+                   },
+                   
+                   {
+                   "NAME": "shopping",
+                   "DESCRIPTION":""
+                   },
+                   
+                   {
+                   "NAME": "basic_conversation",
+                   "DESCRIPTION":""
+                   },
+                   
+                   {
+                   "NAME": "time",
+                   "DESCRIPTION":""
+                   },
+                   
+                   {
+                   "NAME": "animal",
+                   "DESCRIPTION":""
+                   },
+                   
+                   ]
+}

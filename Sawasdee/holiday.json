@@ -1,0 +1,386 @@
+{
+	"HOLIDAYS":[
+	
+	{
+		"DATE" : "20140101",
+		"NAME" : "New Year's Day",
+		"DESCRIPTION" : "",
+		"URL" : "",
+		"DAY" : "01",
+		"MONTH" : "01",
+		"YEAR" 	: "2014"
+	},
+	
+	{
+		"DATE" : "20140214",
+		"NAME" : "Makha Bucha Day",
+		"DESCRIPTION" : "",
+		"URL" : "",
+		"DAY" : "14",
+		"MONTH" : "02",
+		"YEAR" 	: "2014"
+	},
+	
+	{
+		"DATE" : "20140406",
+		"NAME" : "Chakri Memorial Day",
+		"DESCRIPTION" : "",
+		"URL" : "",
+		"DAY" : "06",
+		"MONTH" : "04",
+		"YEAR" 	: "2014"
+	},
+	
+	{
+		"DATE" : "20140407",
+		"NAME" : "Chakri Day(in lieu of 06 April)",
+		"DESCRIPTION" : "",
+		"URL" : "",
+		"DAY" : "07",
+		"MONTH" : "04",
+		"YEAR" 	: "2014"
+	},
+	
+	{
+		"DATE" : "20140413",
+		"NAME" : "Songkran",
+		"DESCRIPTION" : "",
+		"URL" : "",
+		"DAY" : "13",
+		"MONTH" : "04",
+		"YEAR" 	: "2014"
+	},
+	
+	{
+		"DATE" : "20140414",
+		"NAME" : "Songkran",
+		"DESCRIPTION" : "",
+		"URL" : "",
+		"DAY" : "14",
+		"MONTH" : "04",
+		"YEAR" 	: "2014"
+	},
+	
+	{
+		"DATE" : "20140415",
+		"NAME" : "Songkran",
+		"DESCRIPTION" : "",
+		"URL" : "",
+		"DAY" : "15",
+		"MONTH" : "04",
+		"YEAR" 	: "2014"
+	},
+	
+	{
+		"DATE" : "20140416",
+		"NAME" : "Songkran(in lieu of 13 April)",
+		"DESCRIPTION" : "",
+		"URL" : "",
+		"DAY" : "16",
+		"MONTH" : "04",
+		"YEAR" 	: "2014"
+	},
+	
+	{
+		"DATE" : "20140501",
+		"NAME" : "Labour Day",
+		"DESCRIPTION" : "",
+		"URL" : "",
+		"DAY" : "01",
+		"MONTH" : "05",
+		"YEAR" 	: "2014"
+	},
+	
+	{
+		"DATE" : "20140505",
+		"NAME" : "Coronation Day",
+		"DESCRIPTION" : "",
+		"URL" : "",
+		"DAY" : "05",
+		"MONTH" : "05",
+		"YEAR" 	: "2014"
+	},
+	
+	{
+		"DATE" : "20140513",
+		"NAME" : "Visakabucha Day",
+		"DESCRIPTION" : "",
+		"URL" : "",
+		"DAY" : "13",
+		"MONTH" : "05",
+		"YEAR" 	: "2014"
+	},
+	
+	{
+		"DATE" : "20140711",
+		"NAME" : "Asalha Puja Day",
+		"DESCRIPTION" : "",
+		"URL" : "",
+		"DAY" : "11",
+		"MONTH" : "07",
+		"YEAR" 	: "2014"
+	},
+	
+	{
+		"DATE" : "20140712",
+		"NAME" : "Beginning of Vassa",
+		"DESCRIPTION" : "",
+		"URL" : "",
+		"DAY" : "12",
+		"MONTH" : "07",
+		"YEAR" 	: "2014"
+	},
+	
+	{
+		"DATE" : "20140714",
+		"NAME" : "Beginning of Vassa(in lieu of 12 July)",
+		"DESCRIPTION" : "",
+		"URL" : "",
+		"DAY" : "14",
+		"MONTH" : "07",
+		"YEAR" 	: "2014"
+	},
+	
+	{
+		"DATE" : "20140812",
+		"NAME" : "The Queen's Birthday",
+		"DESCRIPTION" : "",
+		"URL" : "",
+		"DAY" : "12",
+		"MONTH" : "08",
+		"YEAR" 	: "2014"
+	},
+	
+
+	{
+		"DATE" : "20141023",
+		"NAME" : "Chulalongkorn Day",
+		"DESCRIPTION" : "",
+		"URL" : "",
+		"DAY" : "23",
+		"MONTH" : "10",
+		"YEAR" 	: "2014"
+	},
+	
+	{
+		"DATE" : "20141205",
+		"NAME" : "The King's Birthday",
+		"DESCRIPTION" : "",
+		"URL" : "",
+		"DAY" : "05",
+		"MONTH" : "12",
+		"YEAR" 	: "2014"
+	},
+	
+	{
+		"DATE" : "20141210",
+		"NAME" : "Constitution Day",
+		"DESCRIPTION" : "",
+		"URL" : "",
+		"DAY" : "10",
+		"MONTH" : "12",
+		"YEAR" 	: "2014"
+	},
+	
+		
+	{
+		"DATE" : "20141231",
+		"NAME" : "New Year's Eve",
+		"DESCRIPTION" : "",
+		"URL" : "",
+		"DAY" : "21",
+		"MONTH" : "12",
+		"YEAR" 	: "2014"
+	},
+                
+    {
+        "DATE" : "20150101",
+        "NAME" : "New Year",
+        "DESCRIPTION" : "",
+        "URL" : "",
+        "DAY" : "01",
+        "MONTH" : "01",
+        "YEAR" 	: "2015"
+    },
+    
+                
+                {
+                "DATE" : "20150101",
+                "NAME" : "New Year's Day",
+                "DESCRIPTION" : "",
+                "URL" : "",
+                "DAY" : "01",
+                "MONTH" : "01",
+                "YEAR" 	: "2015"
+                },
+                
+                {
+                "DATE" : "20150314",
+                "NAME" : "Makha Bucha Day",
+                "DESCRIPTION" : "",
+                "URL" : "",
+                "DAY" : "14",
+                "MONTH" : "03",
+                "YEAR" 	: "2015"
+                },
+                
+                {
+                "DATE" : "20150406",
+                "NAME" : "Chakri Memorial Day",
+                "DESCRIPTION" : "",
+                "URL" : "",
+                "DAY" : "06",
+                "MONTH" : "04",
+                "YEAR" 	: "2015"
+                },
+            
+                
+                {
+                "DATE" : "20150413",
+                "NAME" : "Songkran",
+                "DESCRIPTION" : "",
+                "URL" : "",
+                "DAY" : "13",
+                "MONTH" : "04",
+                "YEAR" 	: "2015"
+                },
+                
+                {
+                "DATE" : "20150414",
+                "NAME" : "Songkran",
+                "DESCRIPTION" : "",
+                "URL" : "",
+                "DAY" : "14",
+                "MONTH" : "04",
+                "YEAR" 	: "2015"
+                },
+                
+                {
+                "DATE" : "20150415",
+                "NAME" : "Songkran",
+                "DESCRIPTION" : "",
+                "URL" : "",
+                "DAY" : "15",
+                "MONTH" : "04",
+                "YEAR" 	: "2015"
+                },
+                
+                
+                {
+                "DATE" : "20150501",
+                "NAME" : "Labour Day",
+                "DESCRIPTION" : "",
+                "URL" : "",
+                "DAY" : "01",
+                "MONTH" : "05",
+                "YEAR" 	: "2015"
+                },
+                
+                {
+                "DATE" : "20150505",
+                "NAME" : "Coronation Day",
+                "DESCRIPTION" : "",
+                "URL" : "",
+                "DAY" : "05",
+                "MONTH" : "05",
+                "YEAR" 	: "2015"
+                },
+                
+                {
+                "DATE" : "20150601",
+                "NAME" : "Visakabucha Day",
+                "DESCRIPTION" : "",
+                "URL" : "",
+                "DAY" : "01",
+                "MONTH" : "06",
+                "YEAR" 	: "2015"
+                },
+                
+                {
+                "DATE" : "20150730",
+                "NAME" : "Asalha Puja Day",
+                "DESCRIPTION" : "",
+                "URL" : "",
+                "DAY" : "30",
+                "MONTH" : "07",
+                "YEAR" 	: "2015"
+                },
+                
+                {
+                "DATE" : "20150731",
+                "NAME" : "Beginning of Vassa",
+                "DESCRIPTION" : "",
+                "URL" : "",
+                "DAY" : "31",
+                "MONTH" : "07",
+                "YEAR" 	: "2015"
+                },
+                
+                
+                {
+                "DATE" : "20150812",
+                "NAME" : "The Queen's Birthday",
+                "DESCRIPTION" : "",
+                "URL" : "",
+                "DAY" : "12",
+                "MONTH" : "08",
+                "YEAR" 	: "2015"
+                },
+                
+                
+                {
+                "DATE" : "20151023",
+                "NAME" : "Chulalongkorn Day",
+                "DESCRIPTION" : "",
+                "URL" : "",
+                "DAY" : "23",
+                "MONTH" : "10",
+                "YEAR" 	: "2015"
+                },
+                
+                {
+                "DATE" : "20151205",
+                "NAME" : "The King's Birthday",
+                "DESCRIPTION" : "",
+                "URL" : "",
+                "DAY" : "05",
+                "MONTH" : "12",
+                "YEAR" 	: "2015"
+                },
+                
+                {
+                "DATE" : "20151205",
+                "NAME" : "The King's Birthday(in lieu of 5 December)",
+                "DESCRIPTION" : "",
+                "URL" : "",
+                "DAY" : "05",
+                "MONTH" : "12",
+                "YEAR" 	: "2015"
+                },
+                
+                {
+                "DATE" : "20151210",
+                "NAME" : "Constitution Day",
+                "DESCRIPTION" : "",
+                "URL" : "",
+                "DAY" : "10",
+                "MONTH" : "12",
+                "YEAR" 	: "2015"
+                },
+                
+                
+                {
+                "DATE" : "20151231",
+                "NAME" : "New Year's Eve",
+                "DESCRIPTION" : "",
+                "URL" : "",
+                "DAY" : "31",
+                "MONTH" : "12",
+                "YEAR" 	: "2015"
+                },
+                
+
+
+                
+	]
+}

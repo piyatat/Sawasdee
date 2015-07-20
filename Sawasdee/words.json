@@ -1,0 +1,3072 @@
+{
+    "ITEMS": [
+              
+              {
+              "WORD": "Hello!",
+              "TAG": ["greetings"],
+              "MEANING": {
+              "th_TH": "สวัสดี"
+              },
+              "KARAOKE": {
+              "th_TH": "sawasdee"
+              }
+              },
+              
+              {
+              "WORD": "Hi!",
+              "TAG": ["greetings"],
+              "MEANING": {
+              "th_TH": "สวัสดี"
+              },
+              "KARAOKE": {
+              "th_TH": "sawasdee"
+              }
+              },
+              
+              {
+              "WORD": "Goodbye",
+              "TAG": ["greetings"],
+              "MEANING": {
+              "th_TH": "ลาก่อน"
+              },
+              "KARAOKE": {
+              "th_TH": "la-korn"
+              }
+              },
+              
+              {
+              "WORD": "Good night",
+              "TAG": ["greetings"],
+              "MEANING": {
+              "th_TH": "ฝันดี",
+              },
+              "KARAOKE": {
+              "th_TH": "fun-dee"
+              }
+              },
+              
+              {
+              "WORD": "How old are you?",
+              "TAG": ["greetings"],
+              "MEANING": {
+              "th_TH": "คุณอายุเท่าไร",
+              },
+              "KARAOKE": {
+              "th_TH": "kun-ar-yu-tao-rai"
+              }
+              },
+              
+              {
+              "WORD": "Where are you come from?",
+              "TAG": ["greetings"],
+              "MEANING": {
+              "th_TH": "คุณมาจากที่ไหน",
+              },
+              "KARAOKE": {
+              "th_TH": "kun-ma-jak-tee-nai"
+              }
+              },
+              
+              {
+              "WORD": "What's your name?",
+              "TAG": ["greetings"],
+              "MEANING": {
+              "th_TH": "คุณชื่ออะไร",
+              }
+              ,
+              "KARAOKE": {
+              "th_TH": "kun-chue-a-rai"
+              }
+              },
+              
+              {
+              "WORD": "Nice to meet you.",
+              "TAG": ["greetings"],
+              "MEANING": {
+              "th_TH": "ยินดีที่ได้รู้จัก",
+              },
+              "KARAOKE": {
+              "th_TH": "yin-dee-tee-dai-ru-jak"
+              }
+              },
+              
+              {
+              "WORD": "Nice to see you.",
+              "TAG": ["greetings"],
+              "MEANING": {
+              "th_TH": "ยินดีที่ได้รู้จัก",
+              },
+              "KARAOKE": {
+              "th_TH": "yin-dee-tee-dai-ru-jak"
+              }
+              },
+              
+              {
+              "WORD": "I'm glad to see you.",
+              "TAG": ["greetings"],
+              "MEANING": {
+              "th_TH": "ยินดีที่ได้รู้จัก",
+              },
+              "KARAOKE": {
+              "th_TH": "yin-dee-tee-dai-ru-jak"
+              }
+              },
+              
+              {
+              "WORD": "I'm happy.",
+              "TAG": ["greetings"],
+              "MEANING": {
+              "th_TH": "ฉันมีความสุข",
+              },
+              "KARAOKE": {
+              "th_TH": "chan-mee-kwam-sook"
+              }
+              },
+              
+              {
+              "WORD": "My name is A",
+              "TAG": ["greetings"],
+              "MEANING": {
+              "th_TH": "ฉันชื่อ เอ",
+              },
+              "KARAOKE": {
+              "th_TH": "chun-chue-A"
+              }
+              },
+              
+              {
+              "WORD": "I like you.",
+              "TAG": ["greetings"],
+              "MEANING": {
+              "th_TH": "ฉันชอบคุณ",
+              },
+              "KARAOKE": {
+              "th_TH": "chun-chob-khun"
+              }
+              },
+              
+              {
+              "WORD": "I love you",
+              "TAG": ["greetings"],
+              "MEANING": {
+              "th_TH": "ฉันรักคุณ",
+              },
+              "KARAOKE": {
+              "th_TH": "chun-rak-khun"
+              }
+              },
+              
+              {
+              "WORD": "I",
+              "TAG": ["introduction"],
+              "MEANING": {
+              "th_TH": "ฉัน"
+              },
+              "KARAOKE": {
+              "th_TH": "chun"
+              }
+              },
+              
+              {
+              "WORD": "I hate you",
+              "TAG": ["introduction"],
+              "MEANING": {
+              "th_TH": "ฉันเกลียดคุณ"
+              },
+              "KARAOKE": {
+              "th_TH": "chun-kliad-khun"
+              }
+              },
+              
+              {
+              "WORD": "You",
+              "TAG": ["introduction"],
+              "MEANING": {
+              "th_TH": "คุณ"
+              },
+              "KARAOKE": {
+              "th_TH": "khun"
+              }
+              },
+              
+              {
+              "WORD": "Price",
+              "TAG": ["introduction"],
+              "MEANING": {
+              "th_TH": "ราคา"
+              },
+              "KARAOKE": {
+              "th_TH": "ra-ka"
+              }
+              },
+              
+              {
+              "WORD": "Taxi",
+              "TAG": ["introduction"],
+              "MEANING": {
+              "th_TH": "รถแท๊กซี่"
+              },
+              "KARAOKE": {
+              "th_TH": "rod-taxi"
+              }
+              },
+              
+              {
+              "WORD": "Bus",
+              "TAG": ["introduction"],
+              "MEANING": {
+              "th_TH": "รถประจำทาง"
+              },
+              "KARAOKE": {
+              "th_TH": "rod-pra-jum-tang"
+              }
+              },
+              
+              {
+              "WORD": "Airport",
+              "TAG": ["introduction"],
+              "MEANING": {
+              "th_TH": "สนามบิน"
+              },
+              "KARAOKE": {
+              "th_TH": "sa-nam-bin"
+              }
+              },
+              
+              {
+              "WORD": "Hotel",
+              "TAG": ["introduction"],
+              "MEANING": {
+              "th_TH": "โรงแรม"
+              },
+              "KARAOKE": {
+              "th_TH": "rong-ram"
+              }
+              },
+              
+              {
+              "WORD": "Sky train",
+              "TAG": ["introduction"],
+              "MEANING": {
+              "th_TH": "รถไฟฟ้า"
+              },
+              "KARAOKE": {
+              "th_TH": "rod-fai-fah"
+              }
+              },
+              
+              {
+              "WORD": "Subway",
+              "TAG": ["introduction"],
+              "MEANING": {
+              "th_TH": "รถไฟฟ้าใต้ดิน"
+              },
+              "KARAOKE": {
+              "th_TH": "rod-tai-din"
+              }
+              },
+              
+              {
+              "WORD": "Market",
+              "TAG": ["introduction"],
+              "MEANING": {
+              "th_TH": "ตลาด"
+              },
+              "KARAOKE": {
+              "th_TH": "ta-lad"
+              }
+              },
+              
+              {
+              "WORD": "Temple",
+              "TAG": ["introduction"],
+              "MEANING": {
+              "th_TH": "วัด"
+              },
+              "KARAOKE": {
+              "th_TH": "wad"
+              }
+              },
+              
+              
+              {
+              "WORD": "Hospital",
+              "TAG": ["introduction"],
+              "MEANING": {
+              "th_TH": "โรงพยาบาล"
+              },
+              "KARAOKE": {
+              "th_TH": "rong-pa-ya-barn"
+              }
+              },
+              
+              {
+              "WORD": "School",
+              "TAG": ["introduction"],
+              "MEANING": {
+              "th_TH": "โรงเรียน"
+              },
+              "KARAOKE": {
+              "th_TH": "rong-rian"
+              }
+              },
+              
+              {
+              "WORD": "University",
+              "TAG": ["introduction"],
+              "MEANING": {
+              "th_TH": "มหาวิทยาลัย"
+              },
+              "KARAOKE": {
+              "th_TH": "ma-ha-wit-ta-ya-lai"
+              }
+              },
+              
+              {
+              "WORD": "Beautiful",
+              "TAG": ["introduction"],
+              "MEANING": {
+              "th_TH": "สวย"
+              },
+              "KARAOKE": {
+              "th_TH": "suay"
+              }
+              },
+              
+              {
+              "WORD": "Cute",
+              "TAG": ["introduction"],
+              "MEANING": {
+              "th_TH": "น่ารัก"
+              },
+              "KARAOKE": {
+              "th_TH": "na-rak"
+              }
+              },
+              
+              
+              
+              {
+              "WORD": "Water",
+              "TAG": ["food"],
+              "MEANING": {
+              "th_TH": "น้ำ"
+              },
+              "KARAOKE": {
+              "th_TH": "nam"
+              }
+              },
+              
+              {
+              "WORD": "cold water",
+              "TAG": ["food"],
+              "MEANING": {
+              "th_TH": "น้ำเย็น"
+              },
+              "KARAOKE": {
+              "th_TH": "nam-yen"
+              }
+              },
+              
+              {
+              "WORD": "hot water",
+              "TAG": ["food"],
+              "MEANING": {
+              "th_TH": "น้ำร้อน"
+              },
+              "KARAOKE": {
+              "th_TH": "nam-ron"
+              }
+              },
+              
+              {
+              "WORD": "coffee",
+              "TAG": ["food"],
+              "MEANING": {
+              "th_TH": "กาแฟ"
+              },
+              "KARAOKE": {
+              "th_TH": "ka-fe"
+              }
+              },
+              
+              {
+              "WORD": "hot coffee",
+              "TAG": ["food"],
+              "MEANING": {
+              "th_TH": "กาแฟร้อน"
+              },
+              "KARAOKE": {
+              "th_TH": "ka-fe-ron"
+              }
+              },
+              
+              {
+              "WORD": "ice coffee",
+              "TAG": ["food"],
+              "MEANING": {
+              "th_TH": "กาแฟเย็น"
+              },
+              "KARAOKE": {
+              "th_TH": "ka-fe-yen"
+              }
+              },
+              
+              {
+              "WORD": "tea",
+              "TAG": ["food"],
+              "MEANING": {
+              "th_TH": "ชา"
+              },
+              "KARAOKE": {
+              "th_TH": "cha"
+              }
+              },
+              
+              
+              
+              {
+              "WORD": "Milk",
+              "TAG": ["food"],
+              "MEANING": {
+              "th_TH": "นม"
+              },
+              "KARAOKE": {
+              "th_TH": "nom"
+              }
+              },
+              
+              {
+              "WORD": "Orange juice",
+              "TAG": ["food"],
+              "MEANING": {
+              "th_TH": "น้ำส้มคั้น"
+              },
+              "KARAOKE": {
+              "th_TH": "nam-som-kan"
+              }
+              },
+              
+              {
+              "WORD": "lemonade",
+              "TAG": ["food"],
+              "MEANING": {
+              "th_TH": "น้ำมะนาว"
+              },
+              "KARAOKE": {
+              "th_TH": "nam-ma-now"
+              }
+              },
+              
+              {
+              "WORD": "Coconut juice",
+              "TAG": ["food"],
+              "MEANING": {
+              "th_TH": "น้ำมะพร้าว"
+              },
+              "KARAOKE": {
+              "th_TH": "nam-ma-prao"
+              }
+              },
+              
+              
+              
+              
+              {
+              "WORD": "Rice",
+              "TAG": ["food"],
+              "MEANING": {
+              "th_TH": "ข้าว"
+              },
+              "KARAOKE": {
+              "th_TH": "kao"
+              }
+              },
+              
+              {
+              "WORD": "Fried rice",
+              "TAG": ["food"],
+              "MEANING": {
+              "th_TH": "ข้าวผัด"
+              },
+              "KARAOKE": {
+              "th_TH": "kao-pad"
+              }
+              },
+              
+              {
+              "WORD": "Fried chicken",
+              "TAG": ["food"],
+              "MEANING": {
+              "th_TH": "ไก่ทอด"
+              },
+              "KARAOKE": {
+              "th_TH": "kai-tod"
+              }
+              },
+              
+              {
+              "WORD": "Grill chicken",
+              "TAG": ["food"],
+              "MEANING": {
+              "th_TH": "ไก่ย่าง"
+              },
+              "KARAOKE": {
+              "th_TH": "kai-yang"
+              }
+              },
+              
+              {
+              "WORD": "Grill pork",
+              "TAG": ["food"],
+              "MEANING": {
+              "th_TH": "หมูย่าง"
+              },
+              "KARAOKE": {
+              "th_TH": "moo-yang"
+              }
+              },
+              
+              {
+              "WORD": "Vegetables",
+              "TAG": ["food"],
+              "MEANING": {
+              "th_TH": "ผัก"
+              },
+              "KARAOKE": {
+              "th_TH": "pak"
+              }
+              },
+              
+              {
+              "WORD": "Durian",
+              "TAG": ["food"],
+              "MEANING": {
+              "th_TH": "ทุเรียน"
+              },
+              "KARAOKE": {
+              "th_TH": "tu-rian"
+              }
+              },
+              
+              {
+              "WORD": "Fish",
+              "TAG": ["food"],
+              "MEANING": {
+              "th_TH": "ปลา"
+              },
+              "KARAOKE": {
+              "th_TH": "pla"
+              }
+              },
+              
+              {
+              "WORD": "Shrimp",
+              "TAG": ["food"],
+              "MEANING": {
+              "th_TH": "กุ้ง"
+              },
+              "KARAOKE": {
+              "th_TH": "kung"
+              }
+              },
+              
+              {
+              "WORD": "Crab",
+              "TAG": ["food"],
+              "MEANING": {
+              "th_TH": "ปู"
+              },
+              "KARAOKE": {
+              "th_TH": "poo"
+              }
+              },
+              
+              {
+              "WORD": "Squid",
+              "TAG": ["food"],
+              "MEANING": {
+              "th_TH": "ปลาหมึก"
+              },
+              "KARAOKE": {
+              "th_TH": "pla-muek"
+              }
+              },
+              
+              {
+              "WORD": "Octopus",
+              "TAG": ["food"],
+              "MEANING": {
+              "th_TH": "ปลาหมึก"
+              },
+              "KARAOKE": {
+              "th_TH": "pla-muek"
+              }
+              },
+              
+              {
+              "WORD": "Spicy",
+              "TAG": ["food"],
+              "MEANING": {
+              "th_TH": "เผ็ด"
+              },
+              "KARAOKE": {
+              "th_TH": "ped"
+              }
+              },
+              
+              {
+              "WORD": "No spicy",
+              "TAG": ["food"],
+              "MEANING": {
+              "th_TH": "ไม่เผ็ด"
+              },
+              "KARAOKE": {
+              "th_TH": "mai-ped"
+              }
+              },
+              
+              {
+              "WORD": "Porridge",
+              "TAG": ["food"],
+              "MEANING": {
+              "th_TH": "โจ้ก"
+              },
+              "KARAOKE": {
+              "th_TH": "joke"
+              }
+              },
+              
+              {
+              "WORD": "Egg",
+              "TAG": ["food"],
+              "MEANING": {
+              "th_TH": "ไข่"
+              },
+              "KARAOKE": {
+              "th_TH": "kai"
+              }
+              },
+              
+              
+              {
+              "WORD": "How much?",
+              "TAG": ["shopping"],
+              "MEANING": {
+              "th_TH": "ราคาเท่าไหร่"
+              },
+              "KARAOKE": {
+              "th_TH": "ra-ka-tao-rai"
+              }
+              },
+              
+              {
+              "WORD": "expensive",
+              "TAG": ["shopping"],
+              "MEANING": {
+              "th_TH": "แพง"
+              },
+              "KARAOKE": {
+              "th_TH": "pang"
+              }
+              },
+              
+              {
+              "WORD": "very expensive",
+              "TAG": ["shopping"],
+              "MEANING": {
+              "th_TH": "แพงมาก"
+              },
+              "KARAOKE": {
+              "th_TH": "pang-mak"
+              }
+              },
+              
+              {
+              "WORD": "Could you please give a little discount?",
+              "TAG": ["shopping"],
+              "MEANING": {
+              "th_TH": "ลดราคาหน่อยได้มั้ย"
+              },
+              "KARAOKE": {
+              "th_TH": "lod-ra-ka-noi-dai-mai"
+              }
+              },
+              
+              {
+              "WORD": "Cheap",
+              "TAG": ["shopping"],
+              "MEANING": {
+              "th_TH": "ถูก"
+              },
+              "KARAOKE": {
+              "th_TH": "tuk"
+              }
+              },
+              
+              {
+              "WORD": "very cheap",
+              "TAG": ["shopping"],
+              "MEANING": {
+              "th_TH": "ถูกมาก"
+              },
+              "KARAOKE": {
+              "th_TH": "tuk-mak"
+              }
+              },
+              
+              {
+              "WORD": "Can I try this?",
+              "TAG": ["shopping"],
+              "MEANING": {
+              "th_TH": "ขอลองหน่อยได้มั้ย"
+              },
+              "KARAOKE": {
+              "th_TH": "kor-long-noi-dai-mai"
+              }
+              },
+              
+              {
+              "WORD": "Do you have a bigger size?",
+              "TAG": ["shopping"],
+              "MEANING": {
+              "th_TH": "คุณมีเบอร์ใหญ่กว่านี้มั้ย"
+              },
+              "KARAOKE": {
+              "th_TH": "kun-mee-bur-yai-kwa-nee-mai"
+              }
+              },
+              
+              {
+              "WORD": "Do you have a smaller size?",
+              "TAG": ["shopping"],
+              "MEANING": {
+              "th_TH": "คุณมีเบอร์เล็กกว่านี้มั้ย"
+              },
+              "KARAOKE": {
+              "th_TH": "kun-mee-bur-lek-kwa-nee-mai"
+              }
+              },
+              
+              
+              {
+              "WORD": "1",
+              "TAG": ["number"],
+              "MEANING": {
+              "th_TH": "หนึ่ง"
+              },
+              "KARAOKE": {
+              "th_TH": "nueng"
+              }
+              },
+              
+              {
+              "WORD": "2",
+              "TAG": ["number"],
+              "MEANING": {
+              "th_TH": "สอง"
+              },
+              "KARAOKE": {
+              "th_TH": "song"
+              }
+              },
+              
+              {
+              "WORD": "3",
+              "TAG": ["number"],
+              "MEANING": {
+              "th_TH": "สาม"
+              },
+              "KARAOKE": {
+              "th_TH": "sam"
+              }
+              },
+              
+              {
+              "WORD": "4",
+              "TAG": ["number"],
+              "MEANING": {
+              "th_TH": "สี่"
+              },
+              "KARAOKE": {
+              "th_TH": "si"
+              }
+              },
+              
+              {
+              "WORD": "5",
+              "TAG": ["number"],
+              "MEANING": {
+              "th_TH": "ห้า"
+              },
+              "KARAOKE": {
+              "th_TH": "ha"
+              }
+              },
+              
+              {
+              "WORD": "6",
+              "TAG": ["number"],
+              "MEANING": {
+              "th_TH": "หก"
+              },
+              "KARAOKE": {
+              "th_TH": "hok"
+              }
+              },
+              
+              {
+              "WORD": "7",
+              "TAG": ["number"],
+              "MEANING": {
+              "th_TH": "เจ็ด"
+              },
+              "KARAOKE": {
+              "th_TH": "jed"
+              }
+              },
+              
+              {
+              "WORD": "8",
+              "TAG": ["number"],
+              "MEANING": {
+              "th_TH": "แปด"
+              },
+              "KARAOKE": {
+              "th_TH": "pad"
+              }
+              },
+              
+              {
+              "WORD": "9",
+              "TAG": ["number"],
+              "MEANING": {
+              "th_TH": "เก้า"
+              },
+              "KARAOKE": {
+              "th_TH": "kao"
+              }
+              },
+              
+              {
+              "WORD": "10",
+              "TAG": ["number"],
+              "MEANING": {
+              "th_TH": "สิบ"
+              },
+              "KARAOKE": {
+              "th_TH": "sib"
+              }
+              },
+              
+              
+              {
+              "WORD": "11",
+              "TAG": ["number"],
+              "MEANING": {
+              "th_TH": "สิบเอ็ด"
+              },
+              "KARAOKE": {
+              "th_TH": "sib-ed"
+              }
+              },
+              
+              {
+              "WORD": "12",
+              "TAG": ["number"],
+              "MEANING": {
+              "th_TH": "sib-song"
+              }
+              },
+              
+              {
+              "WORD": "13",
+              "TAG": ["number"],
+              "MEANING": {
+              "th_TH": "สิบสาม"
+              },
+              "KARAOKE": {
+              "th_TH": "sib-sam"
+              }
+              },
+              
+              {
+              "WORD": "14",
+              "TAG": ["number"],
+              "MEANING": {
+              "th_TH": "สิบสี่"
+              },
+              "KARAOKE": {
+              "th_TH": "sib-si"
+              }
+              },
+              
+              {
+              "WORD": "20",
+              "TAG": ["number"],
+              "MEANING": {
+              "th_TH": "ยี่สิบ"
+              },
+              "KARAOKE": {
+              "th_TH": "yi-sib"
+              }
+              },
+              
+              {
+              "WORD": "30",
+              "TAG": ["number"],
+              "MEANING": {
+              "th_TH": "สามสิบ"
+              },
+              "KARAOKE": {
+              "th_TH": "sam-sib"
+              }
+              },
+              
+              
+              {
+              "WORD": "100",
+              "TAG": ["number"],
+              "MEANING": {
+              "th_TH": "หนึ่งร้อย"
+              },
+              "KARAOKE": {
+              "th_TH": "nueng-roi"
+              }
+              },
+              
+              {
+              "WORD": "200",
+              "TAG": ["number"],
+              "MEANING": {
+              "th_TH": "สองร้อย"
+              },
+              "KARAOKE": {
+              "th_TH": "song-roi"
+              }
+              },
+              
+              {"WORD": "1000",
+              "TAG": ["number"],
+              "MEANING": {
+              "th_TH": "หนึ่งพัน"
+              },
+              "KARAOKE": {
+              "th_TH": "nueng-pan"
+              }
+              },
+              
+              {"WORD": "10000",
+              "TAG": ["number"],
+              "MEANING": {
+              "th_TH": "หนึ่งหมื่น"
+              },
+              "KARAOKE": {
+              "th_TH": "nueng-muen"
+              }
+              },
+              
+              {"WORD": "100000",
+              "TAG": ["number"],
+              "MEANING": {
+              "th_TH": "หนึ่งแสน"
+              },
+              "KARAOKE": {
+              "th_TH": "nueng-san"
+              }
+              },
+              
+              {"WORD": "1000000",
+              "TAG": ["number"],
+              "MEANING": {
+              "th_TH": "หนึ่งล้าน"
+              },
+              "KARAOKE": {
+              "th_TH": "nueng-lan"
+              }
+              },
+              
+              
+              
+              {
+              "WORD": "01.00",
+              "TAG": ["time"],
+              "MEANING": {
+              "th_TH": "ตีหนึ่ง"
+              },
+              "KARAOKE": {
+              "th_TH": "tee-nueng"
+              }
+              },
+              
+              {
+              "WORD": "02.00",
+              "TAG": ["time"],
+              "MEANING": {
+              "th_TH": "ตีสอง"
+              },
+              "KARAOKE": {
+              "th_TH": "tee-song"
+              }
+              },
+              
+              {
+              "WORD": "03.00",
+              "TAG": ["time"],
+              "MEANING": {
+              "th_TH": "ตีสาม"
+              },
+              "KARAOKE": {
+              "th_TH": "tee-sam"
+              }
+              },
+              
+              {
+              "WORD": "04.00",
+              "TAG": ["time"],
+              "MEANING": {
+              "th_TH": "ตีสี่"
+              },
+              "KARAOKE": {
+              "th_TH": "tee-si"
+              }
+              },
+              
+              {
+              "WORD": "05.00",
+              "TAG": ["time"],
+              "MEANING": {
+              "th_TH": "ตีห้า"
+              },
+              "KARAOKE": {
+              "th_TH": "tee-ha"
+              }
+              },
+              
+              {
+              "WORD": "08.00",
+              "TAG": ["time"],
+              "MEANING": {
+              "th_TH": "หกโมง"
+              },
+              "KARAOKE": {
+              "th_TH": "hok-mong"
+              }
+              },
+              
+              {
+              "WORD": "07.00",
+              "TAG": ["time"],
+              "MEANING": {
+              "th_TH": "เจ็ดโมง"
+              },
+              "KARAOKE": {
+              "th_TH": "jed-mong"
+              }
+              },
+              
+              {
+              "WORD": "08.00",
+              "TAG": ["time"],
+              "MEANING": {
+              "th_TH": "แปดโมง"
+              },
+              "KARAOKE": {
+              "th_TH": "pad-mong"
+              }
+              },
+              
+              {
+              "WORD": "09.00",
+              "TAG": ["time"],
+              "MEANING": {
+              "th_TH": "เก้าโมง"
+              },
+              "KARAOKE": {
+              "th_TH": "kao-mong"
+              }
+              },
+              
+              {
+              "WORD": "10.00",
+              "TAG": ["time"],
+              "MEANING": {
+              "th_TH": "สิบโมง"
+              },
+              "KARAOKE": {
+              "th_TH": "sib-mong"
+              }
+              },
+              
+              {
+              "WORD": "11.00",
+              "TAG": ["time"],
+              "MEANING": {
+              "th_TH": "สิบเอ็ดโมง"
+              },
+              "KARAOKE": {
+              "th_TH": "sib-ed-mong"
+              }
+              },
+              {
+              "WORD": "12.00",
+              "TAG": ["time"],
+              "MEANING": {
+              "th_TH": "เที่ยง"
+              },
+              "KARAOKE": {
+              "th_TH": "tiang"
+              }
+              },
+              
+              {
+              "WORD": "13.00",
+              "TAG": ["time"],
+              "MEANING": {
+              "th_TH": "บ่ายโมง"
+              },
+              "KARAOKE": {
+              "th_TH": "bai-mong"
+              }
+              },
+              
+              {
+              "WORD": "14.00",
+              "TAG": ["time"],
+              "MEANING": {
+              "th_TH": "บ่ายสองโมง"
+              },
+              "KARAOKE": {
+              "th_TH": "bai-song-mong"
+              }
+              },
+              
+              {
+              "WORD": "15.00",
+              "TAG": ["time"],
+              "MEANING": {
+              "th_TH": "บ่ายสามโมง"
+              },
+              "KARAOKE": {
+              "th_TH": "bai-sam-mong"
+              }
+              },
+              
+              {
+              "WORD": "16.00",
+              "TAG": ["time"],
+              "MEANING": {
+              "th_TH": "บ่ายสี่โมง"
+              },
+              "KARAOKE": {
+              "th_TH": "bai-si-mong"
+              }
+              },
+              
+              {
+              "WORD": "17.00",
+              "TAG": ["time"],
+              "MEANING": {
+              "th_TH": "ห้าโมงเย็น"
+              },
+              "KARAOKE": {
+              "th_TH": "ha-mong-yen"
+              }
+              },
+              
+              
+              {
+              "WORD": "18.00",
+              "TAG": ["time"],
+              "MEANING": {
+              "th_TH": "หกโมงเย็น"
+              },
+              "KARAOKE": {
+              "th_TH": "hok-mong-yen"
+              }
+              },
+              
+              {
+              "WORD": "19.00",
+              "TAG": ["time"],
+              "MEANING": {
+              "th_TH": "หนึ่งทุ่ม"
+              },
+              "KARAOKE": {
+              "th_TH": "nueng-tum"
+              }
+              },
+              
+              {
+              "WORD": "20.00",
+              "TAG": ["time"],
+              "MEANING": {
+              "th_TH": "สองทุ่ม"
+              },
+              "KARAOKE": {
+              "th_TH": "song-tum"
+              }
+              },
+              
+              
+              {
+              "WORD": "21.00",
+              "TAG": ["time"],
+              "MEANING": {
+              "th_TH": "สามทุ่ม"
+              },
+              "KARAOKE": {
+              "th_TH": "sam-tum"
+              }
+              },
+              
+              
+              {
+              "WORD": "22.00",
+              "TAG": ["time"],
+              "MEANING": {
+              "th_TH": "สี่ทุ่ม"
+              },
+              "KARAOKE": {
+              "th_TH": "si-tum"
+              }
+              },
+              
+              
+              {
+              "WORD": "23.00",
+              "TAG": ["time"],
+              "MEANING": {
+              "th_TH": "ห้าทุ่ม"
+              },
+              "KARAOKE": {
+              "th_TH": "ha-tum"
+              }
+              },
+              
+              
+              {
+              "WORD": "24.00",
+              "TAG": ["time"],
+              "MEANING": {
+              "th_TH": "เที่ยงคืน"
+              },
+              "KARAOKE": {
+              "th_TH": "tiang-keun"
+              }
+              },
+              
+              {
+              "WORD": "06.30",
+              "TAG": ["time"],
+              "MEANING": {
+              "th_TH": "หกโมงครึ่ง"
+              },
+              "KARAOKE": {
+              "th_TH": "hok-mong-kreung"
+              }
+              },
+              
+              {
+              "WORD": "06.15",
+              "TAG": ["time"],
+              "MEANING": {
+              "th_TH": "หกโมงสิบห้านาที"
+              },
+              "KARAOKE": {
+              "th_TH": "hok-mong-sib-ha-na-ti"
+              }
+              },
+              
+              {
+              "WORD": "06.20",
+              "TAG": ["time"],
+              "MEANING": {
+              "th_TH": "หกโมงยี่สิบนาที"
+              },
+              "KARAOKE": {
+              "th_TH": "hok-mong-yi-sib-na-ti"
+              }
+              },
+              
+              {
+              "WORD": "What's time is it now?",
+              "TAG": ["time"],
+              "MEANING": {
+              "th_TH": "ขณะนี้เวลาเท่าไร"
+              },
+              "KARAOKE": {
+              "th_TH": "ka-na-ni-way-la-tao-rai"
+              }
+              },
+              
+              {
+              "WORD": "Time",
+              "TAG": ["time"],
+              "MEANING": {
+              "th_TH": "เวลา"
+              },
+              "KARAOKE": {
+              "th_TH": "way-la"
+              }
+              },
+              
+              {
+              "WORD": "Hot",
+              "TAG": ["Weather"],
+              "MEANING": {
+              "th_TH": "ร้อน"
+              },
+              "KARAOKE": {
+              "th_TH": "ron"
+              }
+              },
+            
+              {
+              "WORD": "Cold",
+              "TAG": ["Weather"],
+              "MEANING": {
+              "th_TH": "หนาว"
+              },
+              "KARAOKE": {
+              "th_TH": "nao"
+              }
+              },
+              
+              
+              {
+              "WORD": "Rainy",
+              "TAG": ["Weather"],
+              "MEANING": {
+              "th_TH": "ฝนตก"
+              },
+              "KARAOKE": {
+              "th_TH": "fon-tok"
+              }
+              },
+              
+              {
+              "WORD": "Windy",
+              "TAG": ["Weather"],
+              "MEANING": {
+              "th_TH": "ลมแรง"
+              },
+              "KARAOKE": {
+              "th_TH": "lom-rang"
+              }
+              },
+              
+              
+              
+              
+              {
+              "WORD": "Yes",
+              "TAG": ["basic_conversation"],
+              "MEANING": {
+              "th_TH": "ใช่"
+              },
+              "KARAOKE": {
+              "th_TH": "chai"
+              }
+              },
+              
+              {
+              "WORD": "No",
+              "TAG": ["basic_conversation"],
+              "MEANING": {
+              "th_TH": "ไม่ใช่",
+              },
+              "KARAOKE": {
+              "th_TH": "mai-chai"
+              }
+              },
+              
+              
+              {
+              "WORD": "How can I call this in Thai?",
+              "TAG": ["basic_conversation"],
+              "MEANING": {
+              "th_TH": "ในภาษาไทยเรียกสิ่งนี้ว่าอะไร",
+              },
+              "KARAOKE": {
+              "th_TH": "nai-pa-sa-thai-riak-sing-nee-wa-a-rai"
+              }
+              },
+              
+              
+              {
+              "WORD": "I can't speak Thai.",
+              "TAG": ["basic_conversation"],
+              "MEANING": {
+              "th_TH": "ฉันพูดไทยไม่ได้",
+              },
+              "KARAOKE": {
+              "th_TH": "chan-pood-thai-mai-dai"
+              }
+              },
+              
+              {
+              "WORD": "Good luck",
+              "TAG": ["basic_conversation"],
+              "MEANING": {
+              "th_TH": "โชคดีนะ",
+              },
+              "KARAOKE": {
+              "th_TH": "chok-dee"
+              }
+              },
+              
+              {
+              "WORD": "Have a nice trip.",
+              "TAG": ["basic_conversation"],
+              "MEANING": {
+              "th_TH": "ขอให้สนุกกับทริปนี้นะ",
+              },
+              "KARAOKE": {
+              "th_TH": "kor-hai-sa-nuk-kub-trip-nee-na"
+              }
+              },
+              
+              {
+              "WORD": "I'm sorry",
+              "TAG": ["basic_conversation"],
+              "MEANING": {
+              "th_TH": "ฉันขอโทษ",
+              },
+              "KARAOKE": {
+              "th_TH": "chan-kor-tod"
+              }
+              },
+              
+              {
+              "WORD": "I don't understand.",
+              "TAG": ["basic_conversation"],
+              "MEANING": {
+              "th_TH": "ฉันไม่เข้าใจ",
+              },
+              "KARAOKE": {
+              "th_TH": "chan-mai-kao-jai"
+              }
+              },
+              
+              {
+              "WORD": "Never mind",
+              "TAG": ["basic_conversation"],
+              "MEANING": {
+              "th_TH": "ไม่เป็นไร",
+              },
+              "KARAOKE": {
+              "th_TH": "chan-mai-pen-rai"
+              }
+              },
+              
+              {
+              "WORD": "Thank you",
+              "TAG": ["basic_conversation"],
+              "MEANING": {
+              "th_TH": "ขอบคุณ",
+              },
+              "KARAOKE": {
+              "th_TH": "kob-khun"
+              }
+              },
+              
+              {
+              "WORD": "What's your phone number?",
+              "TAG": ["basic_conversation"],
+              "MEANING": {
+              "th_TH": "เบอร์โทรศัพท์ของคุณคืออะไร",
+              },
+              "KARAOKE": {
+              "th_TH": "ber-tow-ra-sab-kong-khun-khue-a-rai"
+              }
+              },
+              
+              {
+              "WORD": "Can I have your phone number?",
+              "TAG": ["basic_conversation"],
+              "MEANING": {
+              "th_TH": "ขอเบอร์คุณหน่อยได้มั้ย",
+              },
+              "KARAOKE": {
+              "th_TH": "kor-ber-khun-noi-dai-mai"
+              }
+              },
+              
+              {
+              "WORD": "Do you remember me?",
+              "TAG": ["basic_conversation"],
+              "MEANING": {
+              "th_TH": "คุณจำฉันได้มั้ย",
+              },
+              "KARAOKE": {
+              "th_TH": "khun-jam-chan-dai-mai"
+              }
+              },
+              
+              {
+              "WORD": "Where is the hospital?",
+              "TAG": ["basic_conversation"],
+              "MEANING": {
+              "th_TH": "โรงพยาบาลอยู่ที่ไหน",
+              },
+              "KARAOKE": {
+              "th_TH": "rong-pa-ya-ban-yoo-trong-nai"
+              }
+              },
+              
+              {
+              "WORD": "Taxi",
+              "TAG": ["transportation"],
+              "MEANING": {
+              "th_TH": "แท็กซี่",
+              },
+              "KARAOKE": {
+              "th_TH": "taxi"
+              }
+              },
+              
+              {
+              "WORD": "Plane",
+              "TAG": ["transportation"],
+              "MEANING": {
+              "th_TH": "เครื่องบิน",
+              },
+              "KARAOKE": {
+              "th_TH": "kreung-bin"
+              }
+              },
+              
+              {
+              "WORD": "Train",
+              "TAG": ["transportation"],
+              "MEANING": {
+              "th_TH": "รถไฟ",
+              },
+              "KARAOKE": {
+              "th_TH": "rod-fai"
+              }
+              },
+              
+              {
+              "WORD": "Boat",
+              "TAG": ["transportation"],
+              "MEANING": {
+              "th_TH": "เรือ",
+              },
+              "KARAOKE": {
+              "th_TH": "ruer"
+              }
+              },
+              
+              
+              {
+              "WORD": "Subway",
+              "TAG": ["transportation"],
+              "MEANING": {
+              "th_TH": "รถไฟใต้ดิน",
+              },
+              "KARAOKE": {
+              "th_TH": "rod-tai-din"
+              }
+              },
+              
+              {
+              "WORD": "Sky train",
+              "TAG": ["transportation"],
+              "MEANING": {
+              "th_TH": "รถไฟฟ้า",
+              },
+              "KARAOKE": {
+              "th_TH": "rod-fai-fah"
+              }
+              },
+              
+              {
+              "WORD": "Motorbike",
+              "TAG": ["transportation"],
+              "MEANING": {
+              "th_TH": "รถมอเตอร์ไซค์",
+              },
+              "KARAOKE": {
+              "th_TH": "rod-mo-tor-cy"
+              }
+              },
+              
+              {
+              "WORD": "Bicycle",
+              "TAG": ["transportation"],
+              "MEANING": {
+              "th_TH": "จักรยาน",
+              },
+              "KARAOKE": {
+              "th_TH": "jak-kra-yan"
+              }
+              },
+              
+              {
+              "WORD": "walk",
+              "TAG": ["transportation"],
+              "MEANING": {
+              "th_TH": "เดิน",
+              },
+              "KARAOKE": {
+              "th_TH": "duern"
+              }
+              },
+              
+              
+              {
+              "WORD": "rabbit",
+              "TAG": ["animal"],
+              "MEANING": {
+              "th_TH": "กระต่าย",
+              },
+              "KARAOKE": {
+              "th_TH": "kra-tai"
+              }
+              },
+              
+              {
+              "WORD": "dog",
+              "TAG": ["animal"],
+              "MEANING": {
+              "th_TH": "สุนัข",
+              },
+              "KARAOKE": {
+              "th_TH": "soo-nak"
+              }
+              },
+              
+              {
+              "WORD": "cat",
+              "TAG": ["animal"],
+              "MEANING": {
+              "th_TH": "แมว",
+              },
+              "KARAOKE": {
+              "th_TH": "maew"
+              }
+              },
+              
+              {
+              "WORD": "kitten",
+              "TAG": ["animal"],
+              "MEANING": {
+              "th_TH": "ลูกแมว",
+              },
+              "KARAOKE": {
+              "th_TH": "look-maew"
+              }
+              },
+              
+              {
+              "WORD": "rat",
+              "TAG": ["animal"],
+              "MEANING": {
+              "th_TH": "หนู",
+              },
+              "KARAOKE": {
+              "th_TH": "noo"
+              }
+              },
+              
+              {
+              "WORD": "pig",
+              "TAG": ["animal"],
+              "MEANING": {
+              "th_TH": "หมู",
+              },
+              "KARAOKE": {
+              "th_TH": "moo"
+              }
+              },
+              
+              {
+              "WORD": "chick",
+              "TAG": ["animal"],
+              "MEANING": {
+              "th_TH": "ลูกไก่",
+              },
+              "KARAOKE": {
+              "th_TH": "look-kai"
+              }
+              },
+              
+              {
+              "WORD": "elephant",
+              "TAG": ["animal"],
+              "MEANING": {
+              "th_TH": "ช้าง",
+              },
+              "KARAOKE": {
+              "th_TH": "chang"
+              }
+              },
+              
+              {
+              "WORD": "squirrel",
+              "TAG": ["animal"],
+              "MEANING": {
+              "th_TH": "กระรอก",
+              },
+              "KARAOKE": {
+              "th_TH": "kra-rok"
+              }
+              },
+              
+              {
+              "WORD": "goldfish",
+              "TAG": ["animal"],
+              "MEANING": {
+              "th_TH": "ปลาทอง",
+              },
+              "KARAOKE": {
+              "th_TH": "pla-tong"
+              }
+              },
+              
+              {
+              "WORD": "owl",
+              "TAG": ["animal"],
+              "MEANING": {
+              "th_TH": "นกฮูก",
+              },
+              "KARAOKE": {
+              "th_TH": "nok-hook"
+              }
+              },
+              
+              {
+              "WORD": "horse",
+              "TAG": ["animal"],
+              "MEANING": {
+              "th_TH": "ม้า",
+              },
+              "KARAOKE": {
+              "th_TH": "mar"
+              }
+              },
+              
+              
+              {
+              "WORD": "zebra",
+              "TAG": ["animal"],
+              "MEANING": {
+              "th_TH": "ม้าลาย",
+              },
+              "KARAOKE": {
+              "th_TH": "mar-lai"
+              }
+              },
+              
+              {
+              "WORD": "cow",
+              "TAG": ["animal"],
+              "MEANING": {
+              "th_TH": "วัว",
+              },
+              "KARAOKE": {
+              "th_TH": "woor"
+              }
+              },
+              
+              {
+              "WORD": "duck",
+              "TAG": ["animal"],
+              "MEANING": {
+              "th_TH": "เป็ด",
+              },
+              "KARAOKE": {
+              "th_TH": "ped"
+              }
+              },
+              
+              {
+              "WORD": "ant",
+              "TAG": ["animal"],
+              "MEANING": {
+              "th_TH": "มด",
+              },
+              "KARAOKE": {
+              "th_TH": "mod"
+              }
+              },
+              
+              
+              
+              {
+              "WORD": "son",
+              "TAG": ["family"],
+              "MEANING": {
+              "th_TH": "ลูกชาย"
+              },
+              "KARAOKE": {
+              "th_TH": "look-chai"
+              }
+              },
+              
+              {
+              "WORD": "daughter",
+              "TAG": ["family"],
+              "MEANING": {
+              "th_TH": "ลูกสาว"
+              },
+              "KARAOKE": {
+              "th_TH": "look-sao"
+              }
+              },
+              
+              {
+              "WORD": "father",
+              "TAG": ["family"],
+              "MEANING": {
+              "th_TH": "พ่อ"
+              },
+              "KARAOKE": {
+              "th_TH": "por"
+              }
+              },
+              
+              {
+              "WORD": "mother",
+              "TAG": ["family"],
+              "MEANING": {
+              "th_TH": "แม่"
+              },
+              "KARAOKE": {
+              "th_TH": "mae"
+              }
+              },
+              
+              
+              {
+              "WORD": "aunt",
+              "TAG": ["family"],
+              "MEANING": {
+              "th_TH": "ป้า"
+              },
+              "KARAOKE": {
+              "th_TH": "pah"
+              }
+              },
+              
+              {
+              "WORD": "uncle",
+              "TAG": ["family"],
+              "MEANING": {
+              "th_TH": "ลุง"
+              },
+              "KARAOKE": {
+              "th_TH": "lung"
+              }
+              },
+              
+              
+              {
+              "WORD": "grandfather",
+              "TAG": ["family"],
+              "MEANING": {
+              "th_TH": "ปู่"
+              },
+              "KARAOKE": {
+              "th_TH": "poo"
+              }
+              },
+              
+              {
+              "WORD": "grandmother",
+              "TAG": ["family"],
+              "MEANING": {
+              "th_TH": "ย่า"
+              },
+              "KARAOKE": {
+              "th_TH": "yah"
+              }
+              },
+              
+              {
+              "WORD": "cousin",
+              "TAG": ["family"],
+              "MEANING": {
+              "th_TH": "ลูกพี่ลูกน้อง"
+              },
+              "KARAOKE": {
+              "th_TH": "look-pee-look-nong"
+              }
+              },
+              
+              {
+              "WORD": "niece",
+              "TAG": ["family"],
+              "MEANING": {
+              "th_TH": "หลานสาว"
+              },
+              "KARAOKE": {
+              "th_TH": "lan-sao"
+              }
+              },
+              
+              
+              
+              
+              
+              {
+              "WORD": "Spicy shrimp soup (Tom Yum Kung)",
+              "TAG": ["food"],
+              "MEANING": {
+              "th_TH": "ต้มยำกุ้ง"
+              },
+              "KARAOKE": {
+              "th_TH": "tom-yam-kung"
+              }
+              },
+              
+              {
+              "WORD": "Spicy papaya salad (Som Tum)",
+              "TAG": ["food"],
+              "MEANING": {
+              "th_TH": "ส้มตำ"
+              },
+              "KARAOKE": {
+              "th_TH": "som-tum"
+              }
+              },
+              
+              {
+              "WORD": "Chicken in coconut soup (Tom Kha Kai)",
+              "TAG": ["food"],
+              "MEANING": {
+              "th_TH": "ต้มข่าไก่"
+              },
+              "KARAOKE": {
+              "th_TH": "tom-kha-kai"
+              }
+              },
+              
+              {
+              "WORD": "Thai style fried-noodles (Pad Thai)",
+              "TAG": ["food"],
+              "MEANING": {
+              "th_TH": "ผัดไทย"
+              },
+              "KARAOKE": {
+              "th_TH": "pad-thai"
+              }
+              },
+              
+              {
+              "WORD": "Chicken in green curry (Kaeng Keaw Whan Kai)",
+              "TAG": ["food"],
+              "MEANING": {
+              "th_TH": "แกงเขียวหวานไก่"
+              },
+              "KARAOKE": {
+              "th_TH": "kaeng-keaw-whan-kai"
+              }
+              },
+              
+              {
+              "WORD": "Chicken with cashew nuts (Kai Pad Med Ma Muang)",
+              "TAG": ["food"],
+              "MEANING": {
+              "th_TH": "ไก่ผัดเม็ดมะม่วง"
+              },
+              "KARAOKE": {
+              "th_TH": "kai-pad-med-ma-muang"
+              }
+              },
+              
+              {
+              "WORD": "Fried rice",
+              "TAG": ["food"],
+              "MEANING": {
+              "th_TH": "ข้าวผัด"
+              },
+              "KARAOKE": {
+              "th_TH": "kao-phad"
+              }
+              },
+              
+              {
+              "WORD": "Fried rice with shrimp",
+              "TAG": ["food"],
+              "MEANING": {
+              "th_TH": "ข้าวผัดกุ้ง"
+              },
+              "KARAOKE": {
+              "th_TH": "kao-phad-kung"
+              }
+              },
+              
+              {
+              "WORD": "Fried rice with pork",
+              "TAG": ["food"],
+              "MEANING": {
+              "th_TH": "ข้าวผัดหมู"
+              },
+              "KARAOKE": {
+              "th_TH": "khao-phad-moo"
+              }
+              },
+              
+              {
+              "WORD": "Fried rice with chicken",
+              "TAG": ["food"],
+              "MEANING": {
+              "th_TH": "ข้าวผัดไก่"
+              },
+              "KARAOKE": {
+              "th_TH": "khao-pad-kai"
+              }
+              },
+              
+              {
+              "WORD": "Food",
+              "TAG": ["food"],
+              "MEANING": {
+              "th_TH": "อาหาร"
+              },
+              "KARAOKE": {
+              "th_TH": "a-harn"
+              }
+              },
+              
+              {
+              "WORD": "Noodle soup (Kuay Teaw)",
+              "TAG": ["food"],
+              "MEANING": {
+              "th_TH": "ก๋วยเตี๋ยว"
+              },
+              "KARAOKE": {
+              "th_TH": "kuay-teaw"
+              }
+              },
+              
+              {
+              "WORD": "Chicken with rice (Kao Mun Kai)",
+              "TAG": ["food"],
+              "MEANING": {
+              "th_TH": "ข้าวมันไก่"
+              },
+              "KARAOKE": {
+              "th_TH": "kao-mun-kai"
+              }
+              },
+              
+              {
+              "WORD": "Fried rice with chicken (Kao Pad Kai)",
+              "TAG": ["food"],
+              "MEANING": {
+              "th_TH": "ข้าวผัดไก่"
+              },
+              "KARAOKE": {
+              "th_TH": "kao-pad-kai"
+              }
+              },
+              
+              {
+              "WORD": "Sweet curry(Massaman) with chicken",
+              "TAG": ["food"],
+              "MEANING": {
+              "th_TH": "มัสมั่นไก่"
+              },
+              "KARAOKE": {
+              "th_TH": "mas-sa-man-kai"
+              }
+              },
+              
+              {
+              "WORD": "Thai omelette (Kao Kai Jeaw)",
+              "TAG": ["food"],
+              "MEANING": {
+              "th_TH": "ข้าวไข่เจียว"
+              },
+              "KARAOKE": {
+              "th_TH": "kao-kai-jeaw"
+              }
+              },
+              
+              {
+              "WORD": "Minced chicken stir fried with basil (Kra Prao Kai)",
+              "TAG": ["food"],
+              "MEANING": {
+              "th_TH": "กระเพราไก่"
+              },
+              "KARAOKE": {
+              "th_TH": "kra-prao-kai"
+              }
+              },
+              
+              {
+              "WORD": "Minced pork stir fried with basil (Kra Prao Moo)",
+              "TAG": ["food"],
+              "MEANING": {
+              "th_TH": "กระเพราหมู"
+              },
+              "KARAOKE": {
+              "th_TH": "krao-prao-moo"
+              }
+              },
+              
+              {
+              "WORD": "Mango with sticky rice (Kao Neaw Ma Muang)",
+              "TAG": ["food"],
+              "MEANING": {
+              "th_TH": "ข้าวเหนียวมะม่วง"
+              },
+              "KARAOKE": {
+              "th_TH": "kao-neaw-ma-muang"
+              }
+              },
+              
+              
+              
+              
+              
+              {
+              "WORD": "Siam",
+              "TAG": ["place"],
+              "MEANING": {
+              "th_TH": "สยาม"
+              },
+              "KARAOKE": {
+              "th_TH": "siam"
+              }
+              },
+              
+              {
+              "WORD": "Siam Paragon",
+              "TAG": ["place"],
+              "MEANING": {
+              "th_TH": "สยามพารากอน"
+              },
+              "KARAOKE": {
+              "th_TH": "siam-pa-ra-gon"
+              }
+              },
+              
+              {
+              "WORD": "Jatujak Market",
+              "TAG": ["place"],
+              "MEANING": {
+              "th_TH": "ตลาดนัดจตุจักร"
+              },
+              "KARAOKE": {
+              "th_TH": "ta-lad-nad-ja-tu-jak"
+              }
+              },
+              
+              {
+              "WORD": "Lumpini Park",
+              "TAG": ["place"],
+              "MEANING": {
+              "th_TH": "สวนลุมพินี"
+              },
+              "KARAOKE": {
+              "th_TH": "suan-lum-pi-ni"
+              }
+              },
+              
+              {
+              "WORD": "Wat Pho",
+              "TAG": ["place"],
+              "MEANING": {
+              "th_TH": "วัดโพธิ์"
+              },
+              "KARAOKE": {
+              "th_TH": "wad-pho"
+              }
+              },
+              
+              {
+              "WORD": "Grand Palace",
+              "TAG": ["place"],
+              "MEANING": {
+              "th_TH": "พระบรมหาราชวัง"
+              },
+              "KARAOKE": {
+              "th_TH": "pra-bor-rom-ma-ha-rajja-wang"
+              }
+              },
+              
+              {
+              "WORD": "Wat Phra Kaew",
+              "TAG": ["place"],
+              "MEANING": {
+              "th_TH": "วัดพระแก้ว"
+              },
+              "KARAOKE": {
+              "th_TH": "wat-phra-kaew"
+              }
+              },
+              
+              {
+              "WORD": "Wat Arun",
+              "TAG": ["place"],
+              "MEANING": {
+              "th_TH": "วัดอรุณราชวราราม ราชวรมหาวิหาร"
+              },
+              "KARAOKE": {
+              "th_TH": "wat-arun"
+              }
+              },
+              
+              {
+              "WORD": "Wat Saket",
+              "TAG": ["place"],
+              "MEANING": {
+              "th_TH": "วัดสระเกษ"
+              },
+              "KARAOKE": {
+              "th_TH": "wat-sa-ket"
+              }
+              },
+              
+              {
+              "WORD": "Ananta Samakhom Throne Hal",
+              "TAG": ["place"],
+              "MEANING": {
+              "th_TH": "พระที่นั่งอนันตสมาคม"
+              },
+              "KARAOKE": {
+              "th_TH": "pra-tee-nung-ananta-samakom"
+              }
+              },
+              
+              
+              {
+              "WORD": "Wat Benchamabophit",
+              "TAG": ["place"],
+              "MEANING": {
+              "th_TH": "วัดเบญจมบพิตร"
+              },
+              "KARAOKE": {
+              "th_TH": "wat-benchamabophit"
+              }
+              },
+              
+              
+              {
+              "WORD": "Dusit Zoo",
+              "TAG": ["place"],
+              "MEANING": {
+              "th_TH": "สวนสัตว์ดุสิต"
+              },
+              "KARAOKE": {
+              "th_TH": "suan-dusit"
+              }
+              },
+              
+              
+              {
+              "WORD": "Vimanmek Mansion",
+              "TAG": ["place"],
+              "MEANING": {
+              "th_TH": "พระที่นั่งวิมานเมฆ"
+              },
+              "KARAOKE": {
+              "th_TH": "phra-tee-nung-vimanmek"
+              }
+              },
+              
+              {
+              "WORD": "Bangkok Art and Culture Centre",
+              "TAG": ["place"],
+              "MEANING": {
+              "th_TH": "หอศิลปวัฒนธรรมแห่งกรุงเทพมหานคร"
+              },
+              "KARAOKE": {
+              "th_TH": "hor-sil-la-pa-wat-ta-na-tum-hang-krung-thep-ma-ha-na-korn"
+              }
+              },
+              
+              {
+              "WORD": "I'm lost.",
+              "TAG": ["place"],
+              "MEANING": {
+              "th_TH": "ฉันหลงทาง"
+              },
+              "KARAOKE": {
+              "th_TH": "chan-long-tang"
+              }
+              },
+              
+              {
+              "WORD": "He is my friend.",
+              "TAG": ["introduction"],
+              "MEANING": {
+              "th_TH": "เขาเป็นเพื่อนฉัน"
+              },
+              "KARAOKE": {
+              "th_TH": "khao-pen-peung-chan"
+              }
+              },
+              
+              {
+              "WORD": "She is my friend.",
+              "TAG": ["introduction"],
+              "MEANING": {
+              "th_TH": "เธอเป็นเพื่อนฉัน"
+              },
+              "KARAOKE": {
+              "th_TH": "tur-pen-peung-chan"
+              }
+              },
+              
+              {
+              "WORD": "Help me!",
+              "TAG": ["basic_conversation"],
+              "MEANING": {
+              "th_TH": "ช่วยฉันด้วย"
+              },
+              "KARAOKE": {
+              "th_TH": "chuai-chan-duay"
+              }
+              },
+              
+              {
+              "WORD": "Let's go!",
+              "TAG": ["basic_conversation"],
+              "MEANING": {
+              "th_TH": "ไปกันเถอะ"
+              },
+              "KARAOKE": {
+              "th_TH": "pai-kan-tur"
+              }
+              },
+              
+              {
+              "WORD": "Gift",
+              "TAG": ["basic_conversation"],
+              "MEANING": {
+              "th_TH": "ของขวัญ"
+              },
+              "KARAOKE": {
+              "th_TH": "kong-kwan"
+              }
+              },
+              
+              {
+              "WORD": "fat",
+              "TAG": ["introduction"],
+              "MEANING": {
+              "th_TH": "อ้วน"
+              },
+              "KARAOKE": {
+              "th_TH": "auan"
+              }
+              },
+              
+              {
+              "WORD": "thin",
+              "TAG": ["introduction"],
+              "MEANING": {
+              "th_TH": "ผอม"
+              },
+              "KARAOKE": {
+              "th_TH": "porm"
+              }
+              },
+              
+              {
+              "WORD": "Welcome!",
+              "TAG": ["greetings"],
+              "MEANING": {
+              "th_TH": "ยินดีต้อนรับ"
+              },
+              "KARAOKE": {
+              "th_TH": "yin-dee-ton-rub"
+              }
+              },
+              
+              {
+              "WORD": "Fine, thank you.",
+              "TAG": ["greetings"],
+              "MEANING": {
+              "th_TH": "สบายดี ขอบคุณ"
+              },
+              "KARAOKE": {
+              "th_TH": "sa-bai-dee, kob-khun"
+              }
+              },
+              
+              
+              {
+              "WORD": "easy",
+              "TAG": ["introduction"],
+              "MEANING": {
+              "th_TH": "ง่าย"
+              },
+              "KARAOKE": {
+              "th_TH": "nghai"
+              }
+              },
+              
+              {
+              "WORD": "Thank you very much",
+              "TAG": ["greetings"],
+              "MEANING": {
+              "th_TH": "ขอบคุณมาก"
+              },
+              "KARAOKE": {
+              "th_TH": "khob-khun-mak"
+              }
+              },
+              
+              {
+              "WORD": "Never mind",
+              "TAG": ["basic_conversation"],
+              "MEANING": {
+              "th_TH": "ไม่เป็นไร"
+              },
+              "KARAOKE": {
+              "th_TH": "mai-pen-rai"
+              }
+              },
+              
+              {
+              "WORD": "Excuse me",
+              "TAG": ["basic_conversation"],
+              "MEANING": {
+              "th_TH": "ขอโทษนะ"
+              },
+              "KARAOKE": {
+              "th_TH": "kor-tod-na"
+              }
+              },
+              
+              {
+              "WORD": "Are you Thai?",
+              "TAG": ["introduction"],
+              "MEANING": {
+              "th_TH": "คุณเป็นคนไทยมั้ย"
+              },
+              "KARAOKE": {
+              "th_TH": "khun-pen-kon-thai-mai"
+              }
+              },
+              
+              {
+              "WORD": "A little bit.",
+              "TAG": ["introduction"],
+              "MEANING": {
+              "th_TH": "นิดหน่อย"
+              },
+              "KARAOKE": {
+              "th_TH": "nid-noi"
+              }
+              },
+              
+              {
+              "WORD": "I can speak Thai a little bit",
+              "TAG": ["introduction"],
+              "MEANING": {
+              "th_TH": "ฉันพูดไทยได้นิดหน่อย"
+              },
+              "KARAOKE": {
+              "th_TH": "chan-pood-thai-dai-nid-noi"
+              }
+              },
+              
+              {
+              "WORD": "I like Thailand",
+              "TAG": ["introduction"],
+              "MEANING": {
+              "th_TH": "ฉันชอบเมืองไทย"
+              },
+              "KARAOKE": {
+              "th_TH": "chan-chob-mueang-thai"
+              }
+              },
+              
+              {
+              "WORD": "I love Thailand",
+              "TAG": ["introduction"],
+              "MEANING": {
+              "th_TH": "ฉันรักเมืองไทย"
+              },
+              "KARAOKE": {
+              "th_TH": "chan-rak-mueang-thai"
+              }
+              },
+
+              {
+              "WORD": "Happy birthday!",
+              "TAG": ["introduction"],
+              "MEANING": {
+              "th_TH": "สุขสันต์วันเกิด"
+              },
+              "KARAOKE": {
+              "th_TH": "sook-san-wan-kerd"
+              }
+              },
+              
+              {
+              "WORD": "Happy New Yar!",
+              "TAG": ["introduction"],
+              "MEANING": {
+              "th_TH": "สุขสันต์วันปีใหม่"
+              },
+              "KARAOKE": {
+              "th_TH": "sook-san-wan-pee-mai"
+              }
+              },
+              
+              {
+              "WORD": "Merry Christmas!",
+              "TAG": ["introduction"],
+              "MEANING": {
+              "th_TH": "สุขสันต์วันคริสต์มาส"
+              },
+              "KARAOKE": {
+              "th_TH": "sook-san-wan-christmas"
+              }
+              },
+              
+              {
+              "WORD": "Congratulation!",
+              "TAG": ["introduction"],
+              "MEANING": {
+              "th_TH": "ยินดีด้วยนะ"
+              },
+              "KARAOKE": {
+              "th_TH": "yin-dee-duay-na"
+              }
+              },
+              
+              {
+              "WORD": "You are so handsome.",
+              "TAG": ["basic_conversation"],
+              "MEANING": {
+              "th_TH": "คุณหล่อจัง"
+              },
+              "KARAOKE": {
+              "th_TH": "koon-lor-jung"
+              }
+              },
+              
+              {
+              "WORD": "I am happy",
+              "TAG": ["basic_conversation"],
+              "MEANING": {
+              "th_TH": "ฉันมีความสุข"
+              },
+              "KARAOKE": {
+              "th_TH": "chan-mee-kwam-sook"
+              }
+              },
+              
+              {
+              "WORD": "laugh",
+              "TAG": ["basic_conversation"],
+              "MEANING": {
+              "th_TH": "หัวเราะ"
+              },
+              "KARAOKE": {
+              "th_TH": "hua-ror"
+              }
+              },
+
+              
+              {
+              "WORD": "I do not know",
+              "TAG": ["basic_conversation"],
+              "MEANING": {
+              "th_TH": "ฉันไม่รู้"
+              },
+              "KARAOKE": {
+              "th_TH": "chan-mai-roo"
+              }
+              },
+              
+              {
+              "WORD": "Could you please repeat it again?",
+              "TAG": ["basic_conversation"],
+              "MEANING": {
+              "th_TH": "คุณช่วยทวนอีกครั้งได้ไหม"
+              },
+              "KARAOKE": {
+              "th_TH": "khun-chuay-tuan-eek-krung-dai-mai"
+              }
+              },
+              
+              {
+              "WORD": "Could you please say it again?",
+              "TAG": ["basic_conversation"],
+              "MEANING": {
+              "th_TH": "คุณช่วยพูดอีกครั้งได้ไหม"
+              },
+              "KARAOKE": {
+              "th_TH": "khun-chuay-pood-eek-krung-dai-mai"
+              }
+              },
+              
+              {
+              "WORD": "What is this?",
+              "TAG": ["basic_conversation"],
+              "MEANING": {
+              "th_TH": "นี่คืออะไร"
+              },
+              "KARAOKE": {
+              "th_TH": "nee-kue-a-rai"
+              }
+              },
+              
+              {
+              "WORD": "today",
+              "TAG": ["basic_conversation"],
+              "MEANING": {
+              "th_TH": "วันนี้"
+              },
+              "KARAOKE": {
+              "th_TH": "wan-nee"
+              }
+              },
+              
+              {
+              "WORD": "tomorrow",
+              "TAG": ["basic_conversation"],
+              "MEANING": {
+              "th_TH": "วันพรุ่งนี้"
+              },
+              "KARAOKE": {
+              "th_TH": "wan-prung-nee"
+              }
+              },
+              
+              {
+              "WORD": "yesterday",
+              "TAG": ["basic_conversation"],
+              "MEANING": {
+              "th_TH": "เมื่อวานนี้"
+              },
+              "KARAOKE": {
+              "th_TH": "mua-wan-nee"
+              }
+              },
+              
+              
+              {
+              "WORD": "this",
+              "TAG": ["basic_conversation"],
+              "MEANING": {
+              "th_TH": "นี้"
+              },
+              "KARAOKE": {
+              "th_TH": "nee"
+              }
+              },
+              
+              {
+              "WORD": "that",
+              "TAG": ["basic_conversation"],
+              "MEANING": {
+              "th_TH": "นั้น"
+              },
+              "KARAOKE": {
+              "th_TH": "none"
+              }
+              },
+              
+              {
+              "WORD": "these",
+              "TAG": ["basic_conversation"],
+              "MEANING": {
+              "th_TH": "เหล่านี้"
+              },
+              "KARAOKE": {
+              "th_TH": "lao-nee"
+              }
+              },
+              
+              {
+              "WORD": "those",
+              "TAG": ["basic_conversation"],
+              "MEANING": {
+              "th_TH": "เหล่านั้น"
+              },
+              "KARAOKE": {
+              "th_TH": "lao-nan"
+              }
+              },
+              
+              {
+              "WORD": "we",
+              "TAG": ["basic_conversation"],
+              "MEANING": {
+              "th_TH": "พวกเรา"
+              },
+              "KARAOKE": {
+              "th_TH": "puak-rao"
+              }
+              },
+              
+              {
+              "WORD": "us",
+              "TAG": ["basic_conversation"],
+              "MEANING": {
+              "th_TH": "เรา"
+              },
+              "KARAOKE": {
+              "th_TH": "rao"
+              }
+              },
+              
+              {
+              "WORD": "his",
+              "TAG": ["basic_conversation"],
+              "MEANING": {
+              "th_TH": "ของเขา"
+              },
+              "KARAOKE": {
+              "th_TH": "kong-khao"
+              }
+              },
+              
+              {
+              "WORD": "her",
+              "TAG": ["basic_conversation"],
+              "MEANING": {
+              "th_TH": "ของเธอ"
+              },
+              "KARAOKE": {
+              "th_TH": "kong-ther"
+              }
+              },
+
+              {
+              "WORD": "Do you love me?",
+              "TAG": ["basic_conversation"],
+              "MEANING": {
+              "th_TH": "เธอรักฉันมั้ย"
+              },
+              "KARAOKE": {
+              "th_TH": "ther-rak-chan-mai"
+              }
+              },
+
+              
+              {
+              "WORD": "Do you like me?",
+              "TAG": ["basic_conversation"],
+              "MEANING": {
+              "th_TH": "เธอชอบฉันมั้ย"
+              },
+              "KARAOKE": {
+              "th_TH": "ther-chob-chan-mai"
+              }
+              },
+              
+              {
+              "WORD": "Would you like to date me?",
+              "TAG": ["basic_conversation"],
+              "MEANING": {
+              "th_TH": "เธออยากเดทฉันมั้ย"
+              },
+              "KARAOKE": {
+              "th_TH": "ther-yak-date-chan-mai"
+              }
+              },
+              
+              {
+              "WORD": "Do you want to marry me?",
+              "TAG": ["basic_conversation"],
+              "MEANING": {
+              "th_TH": "เธออยากแต่งงานกับฉันมั้ย"
+              },
+              "KARAOKE": {
+              "th_TH": "ther-yak-taeng-nhan-kab-chan-mai"
+              }
+              },
+              
+              {
+              "WORD": "Please accept my heart",
+              "TAG": ["basic_conversation"],
+              "MEANING": {
+              "th_TH": "กรุณารับหัวใจฉันได้ด้วยนะ"
+              },
+              "KARAOKE": {
+              "th_TH": "ka-ru-na-rub-hua-jai-chan-pai-duay-na"
+              }
+              },
+              
+              {
+              "WORD": "heart",
+              "TAG": ["basic_conversation"],
+              "MEANING": {
+              "th_TH": "หัวใจ"
+              },
+              "KARAOKE": {
+              "th_TH": "hua-jai"
+              }
+              },
+              
+              {
+              "WORD": "I feel sick",
+              "TAG": ["basic_conversation"],
+              "MEANING": {
+              "th_TH": "ฉันป่วย"
+              },
+              "KARAOKE": {
+              "th_TH": "chan-puay"
+              }
+              },
+              
+              {
+              "WORD": "sick",
+              "TAG": ["basic_conversation"],
+              "MEANING": {
+              "th_TH": "ป่วย"
+              },
+              "KARAOKE": {
+              "th_TH": "puay"
+              }
+              },
+              
+              {
+              "WORD": "dumpling",
+              "TAG": ["food"],
+              "MEANING": {
+              "th_TH": "ติ่มซำ"
+              },
+              "KARAOKE": {
+              "th_TH": "tim-sum"
+              }
+              },
+              
+              {
+              "WORD": "thong yip(Sweet/golden flower)",
+              "TAG": ["food"],
+              "MEANING": {
+              "th_TH": "ทองหยิบ"
+              },
+              "KARAOKE": {
+              "th_TH": "thong-yip"
+              }
+              },
+              
+              {
+              "WORD": "thong yod(Sweet/Golden ball)",
+              "TAG": ["food"],
+              "MEANING": {
+              "th_TH": "ทองหยอด"
+              },
+              "KARAOKE": {
+              "th_TH": "thong-yod"
+              }
+              },
+              
+              {
+              "WORD": "Foi thong(Sweet/Golden threads)",
+              "TAG": ["food"],
+              "MEANING": {
+              "th_TH": "ฝอยทอง"
+              },
+              "KARAOKE": {
+              "th_TH": "foi thong"
+              }
+              },
+              
+              {
+              "WORD": "Kao tom mad(Banana wrapped with sticky rice)",
+              "TAG": ["food"],
+              "MEANING": {
+              "th_TH": "ข้าวต้มมัด"
+              },
+              "KARAOKE": {
+              "th_TH": "kao-tom-mad"
+              }
+              },
+              
+              {
+              "WORD": "Thai sweet",
+              "TAG": ["food"],
+              "MEANING": {
+              "th_TH": "ขนมไทย"
+              },
+              "KARAOKE": {
+              "th_TH": "ka-nom-thai"
+              }
+              },
+              
+              {
+              "WORD": "Thai layer cake",
+              "TAG": ["food"],
+              "MEANING": {
+              "th_TH": "ขนมชั้น"
+              },
+              "KARAOKE": {
+              "th_TH": "ka-nom-chan"
+              }
+              },
+              
+              {
+              "WORD": "Deep fried banana",
+              "TAG": ["food"],
+              "MEANING": {
+              "th_TH": "กล้วยทอด"
+              },
+              "KARAOKE": {
+              "th_TH": "kluay-thod"
+              }
+              },
+              
+              {
+              "WORD": "Sweet banana crips",
+              "TAG": ["food"],
+              "MEANING": {
+              "th_TH": "กล้วยฉาบ"
+              },
+              "KARAOKE": {
+              "th_TH": "kluay-chab"
+              }
+              },
+              
+              {
+              "WORD": "Banana in coconut milk",
+              "TAG": ["food"],
+              "MEANING": {
+              "th_TH": "กล้วยบวชชี"
+              },
+              "KARAOKE": {
+              "th_TH": "kluay-buad-chee"
+              }
+              },
+              
+              {
+              "WORD": "Pumpkin in coconut milk",
+              "TAG": ["food"],
+              "MEANING": {
+              "th_TH": "แกงบวชฟักทอง"
+              },
+              "KARAOKE": {
+              "th_TH": "kang-buad-fuk-thong"
+              }
+              },
+              
+              {
+              "WORD": "Sweet golden bean paste",
+              "TAG": ["food"],
+              "MEANING": {
+              "th_TH": "ขนมเม็ดขนุน"
+              },
+              "KARAOKE": {
+              "th_TH": "ka-nom-med-ka-nun"
+              }
+              },
+              
+              {
+              "WORD": "Grass jelly",
+              "TAG": ["food"],
+              "MEANING": {
+              "th_TH": "เฉาก๊วย"
+              },
+              "KARAOKE": {
+              "th_TH": "chao-kuay"
+              }
+              },
+              
+              {
+              "WORD": "Pudding with coconut topping",
+              "TAG": ["food"],
+              "MEANING": {
+              "th_TH": "ตะโก้"
+              },
+              "KARAOKE": {
+              "th_TH": "ta-ko"
+              }
+              },
+              
+              {
+              "WORD": "Dumplings with coconut milk",
+              "TAG": ["food"],
+              "MEANING": {
+              "th_TH": "บัวลอย"
+              },
+              "KARAOKE": {
+              "th_TH": "bua-loi"
+              }
+              },
+              
+              {
+              "WORD": "Sweet potato crisps",
+              "TAG": ["food"],
+              "MEANING": {
+              "th_TH": "มันฉาบ"
+              },
+              "KARAOKE": {
+              "th_TH": "man-chab"
+              }
+              },
+              
+              {
+              "WORD": "Sweet Taro crisps",
+              "TAG": ["food"],
+              "MEANING": {
+              "th_TH": "เผือกฉาบ"
+              },
+              "KARAOKE": {
+              "th_TH": "pueak-chab"
+              }
+              },
+              
+              {
+              "WORD": "Lod Chong Dessert in coconut milk",
+              "TAG": ["food"],
+              "MEANING": {
+              "th_TH": "ลอดช่องน้ำกะทิ"
+              },
+              "KARAOKE": {
+              "th_TH": "lod-chong-nam-ka-thi"
+              }
+              },
+              
+              {
+              "WORD": "Steam pumkin with thai castard",
+              "TAG": ["food"],
+              "MEANING": {
+              "th_TH": "ฟักทองสังขยา"
+              },
+              "KARAOKE": {
+              "th_TH": "fuk-thong-sung-kha-ya"
+              }
+              },
+              
+              {
+              "WORD": "Sticky rice with thai castard",
+              "TAG": ["food"],
+              "MEANING": {
+              "th_TH": "ข้าวเหนียวหน้าสังขยา"
+              },
+              "KARAOKE": {
+              "th_TH": "fuk-thong-sung-kha-ya"
+              }
+              },
+              
+              {
+              "WORD": "Sweet bean paste(look choup)",
+              "TAG": ["food"],
+              "MEANING": {
+              "th_TH": "ลูกชุบ"
+              },
+              "KARAOKE": {
+              "th_TH": "look-choup"
+              }
+              },
+              
+              {
+              "WORD": "Corn",
+              "TAG": ["food", "vegetables"],
+              "MEANING": {
+              "th_TH": "ข้าวโพด"
+              },
+              "KARAOKE": {
+              "th_TH": "kao-pod"
+              }
+              },
+
+
+              
+              ]
+}

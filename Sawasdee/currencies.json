@@ -1,0 +1,105 @@
+{
+	"CURRENCIES":[
+                
+                {
+                  "VALUE" : "0.25",
+                  "NAME" : "25 Satang",
+                  "IMAGE" : "0.25baht.png",
+                  "DESCRIPTION" : "0.25 Baht",
+                  "READ" : "ยี่สิบห้าสตางค์",
+                  "KARAOKE" : "yi-sib-ha-sa-tang"
+                  
+                },
+                  
+                {
+                  "VALUE" : "0.50",
+                  "NAME" : "50 Satang",
+                  "IMAGE" : "0.5baht.png",
+                  "DESCRIPTION" : "0.50 Baht",
+                  "READ" : "ห้าสิบสตางค์",
+                  "KARAOKE" : "ha-sib-sa-tang"
+                },
+                
+                {
+                  "VALUE" : "1",
+                  "NAME" : "1 Baht",
+                  "IMAGE" : "1baht.png",
+                  "DESCRIPTION" : "1 Baht",
+                  "READ" : "หนึ่งบาท",
+                  "KARAOKE" : "nueng-baht"
+                },
+                  
+                {
+                  "VALUE" : "2",
+                  "NAME" : "2 Baht",
+                  "IMAGE" : "2baht.png",
+                  "DESCRIPTION" : "2 Baht",
+                  "READ" : "สองบาท",
+                  "KARAOKE" : "song-baht"
+                },
+                  
+                {
+                  "VALUE" : "5",
+                  "NAME" : "5 Baht",
+                  "IMAGE" : "5baht.png",
+                  "DESCRIPTION" : "5 Baht",
+                  "READ" : "ห้าบาท",
+                  "KARAOKE" : "ha-baht"
+                },
+                  
+                {
+                  "VALUE" : "10",
+                  "NAME" : "10 Baht",
+                  "IMAGE" : "10baht.png",
+                  "DESCRIPTION" : "10 Baht",
+                  "READ" : "สิบบาท",
+                  "KARAOKE" : "sib-baht"
+                },
+                  
+                {
+                  "VALUE" : "20",
+                  "NAME" : "20 Baht",
+                  "IMAGE" : "20baht.png",
+                  "DESCRIPTION" : "20 Baht",
+                  "READ" : "ยี่สิบบาท",
+                  "KARAOKE" : "yi-sib-baht"
+                },
+                  
+                {
+                  "VALUE" : "50",
+                  "NAME" : "50 Baht",
+                  "IMAGE" : "50baht.png",
+                  "DESCRIPTION" : "50 Baht",
+                  "READ" : "ห้าสิบบาท",
+                  "KARAOKE" : "ha-sib-baht"
+                },
+                  
+                {
+                  "VALUE" : "100",
+                  "NAME" : "100 Baht",
+                  "IMAGE" : "100baht.png",
+                  "DESCRIPTION" : "100 Baht",
+                  "READ" : "หนึ่งร้อยบาท",
+                  "KARAOKE" : "nueng-roi-baht"
+                },
+                  
+                  
+                {
+                  "VALUE" : "500",
+                  "NAME" : "500 Baht",
+                  "IMAGE" : "500baht.png",
+                  "DESCRIPTION" : "500 Baht",
+                  "READ" : "ห้าร้อยบาท",
+                  "KARAOKE" : "ha-roi-baht"
+                },
+                  
+                {
+                  "VALUE" : "1000",
+                  "NAME" : "1000 Baht",
+                  "IMAGE" : "1000baht.png",
+                  "DESCRIPTION" : "1000 Baht",
+                  "READ" : "หนึ่งพันบาท",
+                  "KARAOKE" : "nueng-pan-baht"
+                },
+    ]
+}

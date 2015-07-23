@@ -300,25 +300,6 @@
 
 - (void)searchBarTextDidEndEditing:(UISearchBar *)_searchBar
 {
-    // use example symbol
-    // + equal เอก
-    // - equal โท
-    // * equal ตรี
-    // / equal จัตวา
-    NSArray *soundArr = [NSArray arrayWithObjects: @"à", @"â", @"á", @"ã",
-                         @"è", @"ê", @"é", @"ã",
-                         @"ò", @"â", @"ó", @"ã",
-                         @"à", @"â", @"á", @"ã",
-                         nil];
-    NSArray *symbolArr = [NSArray arrayWithObjects:@"+", @"-", "*", "/", nil];
-    NSString *searchText = searchBar.text;
-    NSString *lastText = [searchText substringFromIndex:([searchText length]-1)];
-    NSString *beforeLastText = [searchText substringWithRange:NSMakeRange([searchText length]-2, [searchText length]-1)];
-    
-    if( [symbolArr containsObject:lastText] ){
-        int idx = [symbolArr indexOfObject:lastText];
-    }
-    
     if (self.searchBar == _searchBar) {
         [self.tableView reloadData];
     }
@@ -328,6 +309,52 @@
 - (void)searchBar:(UISearchBar *)_searchBar
     textDidChange:(NSString *)searchText
 {
+    
+    // use example symbol(on the stage that we should think of better symbol:- it should be character that available on english keyboard standard)
+    // + equal เอก
+    // - equal โท
+    // * equal ตรี
+    // / equal จัตวา
+    
+    // on the stage that we should think of better symbol:- this symbol could be adapt as karaoke sound in any language in order to help people read each syllable and pronounce in correct tone. It would be great if it could be universal standard and this character available in each keyboard standdard
+//    NSArray *pronounceArr = [NSArray arrayWithObjects: @"à", @"â", @"á", @"ã",
+//                             @"è", @"ê", @"é", @"ã",
+//                             @"ò", @"ô", @"ó", @"õ",
+//                             @"ì", @"î", @"í", @"í",
+//                             @"ù", @"û", @"ú", @"ú",
+//                             nil];
+//    NSArray *symbolArr = [NSArray arrayWithObjects:@"+", @"-", @"*", @"/", nil];
+//    
+//    if([searchText length] >= 2){
+//        NSString *lastText = [searchText substringFromIndex:([searchText length]-1)];
+//        NSString *beforeLastText = [searchText substringWithRange:NSMakeRange([searchText length]-2, [searchText length]-1)];
+//        
+//        int char_idx = 0;
+//        if([beforeLastText isEqualToString:@"a"]){
+//            char_idx = 0;
+//        }if([beforeLastText isEqualToString:@"e"]){
+//            char_idx = 1;
+//        }if([beforeLastText isEqualToString:@"i"]){
+//            char_idx = 2;
+//        }if([beforeLastText isEqualToString:@"o"]){
+//            char_idx = 3;
+//        }if([beforeLastText isEqualToString:@"u"]){
+//            char_idx = 4;
+//        }
+//        if( [symbolArr containsObject:lastText] ){
+//            int symb_idx = (int)[symbolArr indexOfObject:lastText];
+//            int prefix_idx = (int)[searchText length] - 3;
+//            if(prefix_idx < 0){
+//                prefix_idx = 0;
+//            }
+//            int pronounce_idx = ( 4 * char_idx ) + symb_idx;
+//            NSString *pronounce = [pronounceArr objectAtIndex:pronounce_idx];
+//            NSString *search_word_prefix = [searchText substringToIndex:prefix_idx];
+//            _searchBar.text = [search_word_prefix stringByAppendingString:pronounce];
+//        }
+//    }
+
+    
     if (self.searchBar == _searchBar) {
         if([_searchBar.text isEqualToString:@""]){
             [self clearFilterList];

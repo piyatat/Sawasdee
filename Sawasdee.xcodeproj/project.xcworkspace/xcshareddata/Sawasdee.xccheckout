@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>D7EA2801-01F1-481F-A2C9-EF77DDE8D77B</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Sawasdee</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>4DF21007D00EFCAE4925F23B1F9F9A8019C275F4</key>
+		<string>https://github.com/piyatat/Sawasdee.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Sawasdee.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>4DF21007D00EFCAE4925F23B1F9F9A8019C275F4</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/piyatat/Sawasdee.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>4DF21007D00EFCAE4925F23B1F9F9A8019C275F4</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>4DF21007D00EFCAE4925F23B1F9F9A8019C275F4</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Sawasdee</string>
+		</dict>
+	</array>
+</dict>
+</plist>

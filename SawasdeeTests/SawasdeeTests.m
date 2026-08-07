@@ -123,4 +123,17 @@
     }];
 }
 
+- (void)testCategoriesHaveUniqueNames
+{
+    NSDictionary *categories = [self dictionaryFromContentJSONNamed:@"categories"];
+    NSArray *entries = categories[@"CATEGORIES"];
+    NSMutableSet *seen = [NSMutableSet set];
+    [entries enumerateObjectsUsingBlock:^(id obj, NSUInteger idx, BOOL *stop) {
+        NSString *name = ((NSDictionary *)obj)[@"NAME"];
+        XCTAssertNotNil(name, @"categories.json[%lu] missing NAME", (unsigned long)idx);
+        XCTAssertFalse([seen containsObject:name], @"Duplicate NAME %@ at index %lu", name, (unsigned long)idx);
+        [seen addObject:name];
+    }];
+}
+
 @end

@@ -110,4 +110,17 @@
     }];
 }
 
+- (void)testWordsHaveUniqueEntries
+{
+    NSDictionary *words = [self dictionaryFromContentJSONNamed:@"words"];
+    NSArray *entries = words[@"ITEMS"];
+    NSMutableSet *seen = [NSMutableSet set];
+    [entries enumerateObjectsUsingBlock:^(id obj, NSUInteger idx, BOOL *stop) {
+        NSString *word = ((NSDictionary *)obj)[@"WORD"];
+        XCTAssertNotNil(word, @"words.json[%lu] missing WORD", (unsigned long)idx);
+        XCTAssertFalse([seen containsObject:word], @"Duplicate WORD %@ at index %lu", word, (unsigned long)idx);
+        [seen addObject:word];
+    }];
+}
+
 @end

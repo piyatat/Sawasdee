@@ -19,6 +19,17 @@ iOS app for learning everyday Thai — greetings, tones, digits, currency, clock
 | `SawasdeeTests/` | Unit test target |
 | `Crashlytics.framework` | Bundled Crashlytics SDK |
 
+## Content data
+
+Phrase catalogs live as strict JSON under `Sawasdee/`:
+
+- `words.json` — `ITEMS`
+- `categories.json` — `CATEGORIES`
+- `currencies.json` — `CURRENCIES`
+- `holiday.json` — `HOLIDAYS`
+
+`SawasdeeTests` asserts these files parse with `NSJSONSerialization` (no trailing commas).
+
 ## Build
 
 Open `Sawasdee.xcodeproj` in Xcode and run the **Sawasdee** scheme on an iOS Simulator or device.

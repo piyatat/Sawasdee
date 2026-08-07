@@ -38,7 +38,7 @@
               "WORD": "Good night",
               "TAG": ["greetings"],
               "MEANING": {
-              "th_TH": "ฝันดี",
+              "th_TH": "ฝันดี"
               },
               "KARAOKE": {
               "th_TH": "fun-dee"
@@ -49,7 +49,7 @@
               "WORD": "How old are you?",
               "TAG": ["greetings"],
               "MEANING": {
-              "th_TH": "คุณอายุเท่าไร",
+              "th_TH": "คุณอายุเท่าไร"
               },
               "KARAOKE": {
               "th_TH": "kun-ar-yu-tao-rai"
@@ -60,7 +60,7 @@
               "WORD": "Where are you come from?",
               "TAG": ["greetings"],
               "MEANING": {
-              "th_TH": "คุณมาจากที่ไหน",
+              "th_TH": "คุณมาจากที่ไหน"
               },
               "KARAOKE": {
               "th_TH": "kun-ma-jak-tee-nai"
@@ -71,7 +71,7 @@
               "WORD": "What's your name?",
               "TAG": ["greetings"],
               "MEANING": {
-              "th_TH": "คุณชื่ออะไร",
+              "th_TH": "คุณชื่ออะไร"
               }
               ,
               "KARAOKE": {
@@ -83,7 +83,7 @@
               "WORD": "Nice to meet you.",
               "TAG": ["greetings"],
               "MEANING": {
-              "th_TH": "ยินดีที่ได้รู้จัก",
+              "th_TH": "ยินดีที่ได้รู้จัก"
               },
               "KARAOKE": {
               "th_TH": "yin-dee-tee-dai-ru-jak"
@@ -94,7 +94,7 @@
               "WORD": "Nice to see you.",
               "TAG": ["greetings"],
               "MEANING": {
-              "th_TH": "ยินดีที่ได้รู้จัก",
+              "th_TH": "ยินดีที่ได้รู้จัก"
               },
               "KARAOKE": {
               "th_TH": "yin-dee-tee-dai-ru-jak"
@@ -105,7 +105,7 @@
               "WORD": "I'm glad to see you.",
               "TAG": ["greetings"],
               "MEANING": {
-              "th_TH": "ยินดีที่ได้รู้จัก",
+              "th_TH": "ยินดีที่ได้รู้จัก"
               },
               "KARAOKE": {
               "th_TH": "yin-dee-tee-dai-ru-jak"
@@ -116,7 +116,7 @@
               "WORD": "I'm happy.",
               "TAG": ["greetings"],
               "MEANING": {
-              "th_TH": "ฉันมีความสุข",
+              "th_TH": "ฉันมีความสุข"
               },
               "KARAOKE": {
               "th_TH": "chan-mee-kwam-sook"
@@ -127,7 +127,7 @@
               "WORD": "My name is A",
               "TAG": ["greetings"],
               "MEANING": {
-              "th_TH": "ฉันชื่อ เอ",
+              "th_TH": "ฉันชื่อ เอ"
               },
               "KARAOKE": {
               "th_TH": "chun-chue-A"
@@ -138,7 +138,7 @@
               "WORD": "I like you.",
               "TAG": ["greetings"],
               "MEANING": {
-              "th_TH": "ฉันชอบคุณ",
+              "th_TH": "ฉันชอบคุณ"
               },
               "KARAOKE": {
               "th_TH": "chun-chob-khun"
@@ -149,7 +149,7 @@
               "WORD": "I love you",
               "TAG": ["greetings"],
               "MEANING": {
-              "th_TH": "ฉันรักคุณ",
+              "th_TH": "ฉันรักคุณ"
               },
               "KARAOKE": {
               "th_TH": "chun-rak-khun"
@@ -1374,7 +1374,7 @@
               "WORD": "No",
               "TAG": ["basic_conversation"],
               "MEANING": {
-              "th_TH": "ไม่ใช่",
+              "th_TH": "ไม่ใช่"
               },
               "KARAOKE": {
               "th_TH": "mai-chai"
@@ -1386,7 +1386,7 @@
               "WORD": "How can I call this in Thai?",
               "TAG": ["basic_conversation"],
               "MEANING": {
-              "th_TH": "ในภาษาไทยเรียกสิ่งนี้ว่าอะไร",
+              "th_TH": "ในภาษาไทยเรียกสิ่งนี้ว่าอะไร"
               },
               "KARAOKE": {
               "th_TH": "nai-pa-sa-thai-riak-sing-nee-wa-a-rai"
@@ -1398,7 +1398,7 @@
               "WORD": "I can't speak Thai.",
               "TAG": ["basic_conversation"],
               "MEANING": {
-              "th_TH": "ฉันพูดไทยไม่ได้",
+              "th_TH": "ฉันพูดไทยไม่ได้"
               },
               "KARAOKE": {
               "th_TH": "chan-pood-thai-mai-dai"
@@ -1409,7 +1409,7 @@
               "WORD": "Good luck",
               "TAG": ["basic_conversation"],
               "MEANING": {
-              "th_TH": "โชคดีนะ",
+              "th_TH": "โชคดีนะ"
               },
               "KARAOKE": {
               "th_TH": "chok-dee"
@@ -1420,7 +1420,7 @@
               "WORD": "Have a nice trip.",
               "TAG": ["basic_conversation"],
               "MEANING": {
-              "th_TH": "ขอให้สนุกกับทริปนี้นะ",
+              "th_TH": "ขอให้สนุกกับทริปนี้นะ"
               },
               "KARAOKE": {
               "th_TH": "kor-hai-sa-nuk-kub-trip-nee-na"
@@ -1431,7 +1431,7 @@
               "WORD": "I'm sorry",
               "TAG": ["basic_conversation"],
               "MEANING": {
-              "th_TH": "ฉันขอโทษ",
+              "th_TH": "ฉันขอโทษ"
               },
               "KARAOKE": {
               "th_TH": "chan-kor-tod"
@@ -1442,7 +1442,7 @@
               "WORD": "I don't understand.",
               "TAG": ["basic_conversation"],
               "MEANING": {
-              "th_TH": "ฉันไม่เข้าใจ",
+              "th_TH": "ฉันไม่เข้าใจ"
               },
               "KARAOKE": {
               "th_TH": "chan-mai-kao-jai"
@@ -1453,7 +1453,7 @@
               "WORD": "Never mind",
               "TAG": ["basic_conversation"],
               "MEANING": {
-              "th_TH": "ไม่เป็นไร",
+              "th_TH": "ไม่เป็นไร"
               },
               "KARAOKE": {
               "th_TH": "chan-mai-pen-rai"
@@ -1464,7 +1464,7 @@
               "WORD": "Thank you",
               "TAG": ["basic_conversation"],
               "MEANING": {
-              "th_TH": "ขอบคุณ",
+              "th_TH": "ขอบคุณ"
               },
               "KARAOKE": {
               "th_TH": "kob-khun"
@@ -1475,7 +1475,7 @@
               "WORD": "What's your phone number?",
               "TAG": ["basic_conversation"],
               "MEANING": {
-              "th_TH": "เบอร์โทรศัพท์ของคุณคืออะไร",
+              "th_TH": "เบอร์โทรศัพท์ของคุณคืออะไร"
               },
               "KARAOKE": {
               "th_TH": "ber-tow-ra-sab-kong-khun-khue-a-rai"
@@ -1486,7 +1486,7 @@
               "WORD": "Can I have your phone number?",
               "TAG": ["basic_conversation"],
               "MEANING": {
-              "th_TH": "ขอเบอร์คุณหน่อยได้มั้ย",
+              "th_TH": "ขอเบอร์คุณหน่อยได้มั้ย"
               },
               "KARAOKE": {
               "th_TH": "kor-ber-khun-noi-dai-mai"
@@ -1497,7 +1497,7 @@
               "WORD": "Do you remember me?",
               "TAG": ["basic_conversation"],
               "MEANING": {
-              "th_TH": "คุณจำฉันได้มั้ย",
+              "th_TH": "คุณจำฉันได้มั้ย"
               },
               "KARAOKE": {
               "th_TH": "khun-jam-chan-dai-mai"
@@ -1508,7 +1508,7 @@
               "WORD": "Where is the hospital?",
               "TAG": ["basic_conversation"],
               "MEANING": {
-              "th_TH": "โรงพยาบาลอยู่ที่ไหน",
+              "th_TH": "โรงพยาบาลอยู่ที่ไหน"
               },
               "KARAOKE": {
               "th_TH": "rong-pa-ya-ban-yoo-trong-nai"
@@ -1519,7 +1519,7 @@
               "WORD": "Taxi",
               "TAG": ["transportation"],
               "MEANING": {
-              "th_TH": "แท็กซี่",
+              "th_TH": "แท็กซี่"
               },
               "KARAOKE": {
               "th_TH": "taxi"
@@ -1530,7 +1530,7 @@
               "WORD": "Plane",
               "TAG": ["transportation"],
               "MEANING": {
-              "th_TH": "เครื่องบิน",
+              "th_TH": "เครื่องบิน"
               },
               "KARAOKE": {
               "th_TH": "kreung-bin"
@@ -1541,7 +1541,7 @@
               "WORD": "Train",
               "TAG": ["transportation"],
               "MEANING": {
-              "th_TH": "รถไฟ",
+              "th_TH": "รถไฟ"
               },
               "KARAOKE": {
               "th_TH": "rod-fai"
@@ -1552,7 +1552,7 @@
               "WORD": "Boat",
               "TAG": ["transportation"],
               "MEANING": {
-              "th_TH": "เรือ",
+              "th_TH": "เรือ"
               },
               "KARAOKE": {
               "th_TH": "ruer"
@@ -1564,7 +1564,7 @@
               "WORD": "Subway",
               "TAG": ["transportation"],
               "MEANING": {
-              "th_TH": "รถไฟใต้ดิน",
+              "th_TH": "รถไฟใต้ดิน"
               },
               "KARAOKE": {
               "th_TH": "rod-tai-din"
@@ -1575,7 +1575,7 @@
               "WORD": "Sky train",
               "TAG": ["transportation"],
               "MEANING": {
-              "th_TH": "รถไฟฟ้า",
+              "th_TH": "รถไฟฟ้า"
               },
               "KARAOKE": {
               "th_TH": "rod-fai-fah"
@@ -1586,7 +1586,7 @@
               "WORD": "Motorbike",
               "TAG": ["transportation"],
               "MEANING": {
-              "th_TH": "รถมอเตอร์ไซค์",
+              "th_TH": "รถมอเตอร์ไซค์"
               },
               "KARAOKE": {
               "th_TH": "rod-mo-tor-cy"
@@ -1597,7 +1597,7 @@
               "WORD": "Bicycle",
               "TAG": ["transportation"],
               "MEANING": {
-              "th_TH": "จักรยาน",
+              "th_TH": "จักรยาน"
               },
               "KARAOKE": {
               "th_TH": "jak-kra-yan"
@@ -1608,7 +1608,7 @@
               "WORD": "walk",
               "TAG": ["transportation"],
               "MEANING": {
-              "th_TH": "เดิน",
+              "th_TH": "เดิน"
               },
               "KARAOKE": {
               "th_TH": "duern"
@@ -1620,7 +1620,7 @@
               "WORD": "rabbit",
               "TAG": ["animal"],
               "MEANING": {
-              "th_TH": "กระต่าย",
+              "th_TH": "กระต่าย"
               },
               "KARAOKE": {
               "th_TH": "kra-tai"
@@ -1631,7 +1631,7 @@
               "WORD": "dog",
               "TAG": ["animal"],
               "MEANING": {
-              "th_TH": "สุนัข",
+              "th_TH": "สุนัข"
               },
               "KARAOKE": {
               "th_TH": "soo-nak"
@@ -1642,7 +1642,7 @@
               "WORD": "cat",
               "TAG": ["animal"],
               "MEANING": {
-              "th_TH": "แมว",
+              "th_TH": "แมว"
               },
               "KARAOKE": {
               "th_TH": "maew"
@@ -1653,7 +1653,7 @@
               "WORD": "kitten",
               "TAG": ["animal"],
               "MEANING": {
-              "th_TH": "ลูกแมว",
+              "th_TH": "ลูกแมว"
               },
               "KARAOKE": {
               "th_TH": "look-maew"
@@ -1664,7 +1664,7 @@
               "WORD": "rat",
               "TAG": ["animal"],
               "MEANING": {
-              "th_TH": "หนู",
+              "th_TH": "หนู"
               },
               "KARAOKE": {
               "th_TH": "noo"
@@ -1675,7 +1675,7 @@
               "WORD": "pig",
               "TAG": ["animal"],
               "MEANING": {
-              "th_TH": "หมู",
+              "th_TH": "หมู"
               },
               "KARAOKE": {
               "th_TH": "moo"
@@ -1686,7 +1686,7 @@
               "WORD": "chick",
               "TAG": ["animal"],
               "MEANING": {
-              "th_TH": "ลูกไก่",
+              "th_TH": "ลูกไก่"
               },
               "KARAOKE": {
               "th_TH": "look-kai"
@@ -1697,7 +1697,7 @@
               "WORD": "elephant",
               "TAG": ["animal"],
               "MEANING": {
-              "th_TH": "ช้าง",
+              "th_TH": "ช้าง"
               },
               "KARAOKE": {
               "th_TH": "chang"
@@ -1708,7 +1708,7 @@
               "WORD": "squirrel",
               "TAG": ["animal"],
               "MEANING": {
-              "th_TH": "กระรอก",
+              "th_TH": "กระรอก"
               },
               "KARAOKE": {
               "th_TH": "kra-rok"
@@ -1719,7 +1719,7 @@
               "WORD": "goldfish",
               "TAG": ["animal"],
               "MEANING": {
-              "th_TH": "ปลาทอง",
+              "th_TH": "ปลาทอง"
               },
               "KARAOKE": {
               "th_TH": "pla-tong"
@@ -1730,7 +1730,7 @@
               "WORD": "owl",
               "TAG": ["animal"],
               "MEANING": {
-              "th_TH": "นกฮูก",
+              "th_TH": "นกฮูก"
               },
               "KARAOKE": {
               "th_TH": "nok-hook"
@@ -1741,7 +1741,7 @@
               "WORD": "horse",
               "TAG": ["animal"],
               "MEANING": {
-              "th_TH": "ม้า",
+              "th_TH": "ม้า"
               },
               "KARAOKE": {
               "th_TH": "mar"
@@ -1753,7 +1753,7 @@
               "WORD": "zebra",
               "TAG": ["animal"],
               "MEANING": {
-              "th_TH": "ม้าลาย",
+              "th_TH": "ม้าลาย"
               },
               "KARAOKE": {
               "th_TH": "mar-lai"
@@ -1764,7 +1764,7 @@
               "WORD": "cow",
               "TAG": ["animal"],
               "MEANING": {
-              "th_TH": "วัว",
+              "th_TH": "วัว"
               },
               "KARAOKE": {
               "th_TH": "woor"
@@ -1775,7 +1775,7 @@
               "WORD": "duck",
               "TAG": ["animal"],
               "MEANING": {
-              "th_TH": "เป็ด",
+              "th_TH": "เป็ด"
               },
               "KARAOKE": {
               "th_TH": "ped"
@@ -1786,7 +1786,7 @@
               "WORD": "ant",
               "TAG": ["animal"],
               "MEANING": {
-              "th_TH": "มด",
+              "th_TH": "มด"
               },
               "KARAOKE": {
               "th_TH": "mod"
@@ -3064,7 +3064,7 @@
               "KARAOKE": {
               "th_TH": "kao-pod"
               }
-              },
+              }
 
 
               

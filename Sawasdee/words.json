@@ -875,6 +875,9 @@
               "WORD": "12",
               "TAG": ["number"],
               "MEANING": {
+              "th_TH": "สิบสอง"
+              },
+              "KARAOKE": {
               "th_TH": "sib-song"
               }
               },

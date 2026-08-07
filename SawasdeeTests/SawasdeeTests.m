@@ -42,23 +42,50 @@
     return (NSDictionary *)object;
 }
 
+- (void)assertEntries:(NSArray *)entries
+           namedKeys:(NSArray<NSString *> *)keys
+            fileHint:(NSString *)fileHint
+{
+    XCTAssertTrue([entries isKindOfClass:[NSArray class]], @"%@ root array missing", fileHint);
+    XCTAssertGreaterThan(entries.count, 0u, @"%@ should not be empty", fileHint);
+    [entries enumerateObjectsUsingBlock:^(id obj, NSUInteger idx, BOOL *stop) {
+        XCTAssertTrue([obj isKindOfClass:[NSDictionary class]], @"%@[%lu] should be an object", fileHint, (unsigned long)idx);
+        NSDictionary *entry = (NSDictionary *)obj;
+        for (NSString *key in keys) {
+            id value = entry[key];
+            XCTAssertNotNil(value, @"%@[%lu] missing %@", fileHint, (unsigned long)idx, key);
+            if ([value isKindOfClass:[NSString class]]) {
+                XCTAssertGreaterThan([(NSString *)value length], 0u, @"%@[%lu].%@ empty", fileHint, (unsigned long)idx, key);
+            } else if ([value isKindOfClass:[NSDictionary class]]) {
+                XCTAssertGreaterThan([(NSDictionary *)value count], 0u, @"%@[%lu].%@ empty", fileHint, (unsigned long)idx, key);
+            } else if ([value isKindOfClass:[NSArray class]]) {
+                XCTAssertGreaterThan([(NSArray *)value count], 0u, @"%@[%lu].%@ empty", fileHint, (unsigned long)idx, key);
+            }
+        }
+    }];
+}
+
 - (void)testContentJSONIsStrictlyValid
 {
     NSDictionary *words = [self dictionaryFromContentJSONNamed:@"words"];
-    XCTAssertTrue([words[@"ITEMS"] isKindOfClass:[NSArray class]]);
-    XCTAssertGreaterThan([(NSArray *)words[@"ITEMS"] count], 0u);
+    [self assertEntries:words[@"ITEMS"]
+              namedKeys:@[@"WORD", @"TAG", @"MEANING", @"KARAOKE"]
+               fileHint:@"words.json"];
 
     NSDictionary *categories = [self dictionaryFromContentJSONNamed:@"categories"];
-    XCTAssertTrue([categories[@"CATEGORIES"] isKindOfClass:[NSArray class]]);
-    XCTAssertGreaterThan([(NSArray *)categories[@"CATEGORIES"] count], 0u);
+    [self assertEntries:categories[@"CATEGORIES"]
+              namedKeys:@[@"NAME", @"DESCRIPTION"]
+               fileHint:@"categories.json"];
 
     NSDictionary *currencies = [self dictionaryFromContentJSONNamed:@"currencies"];
-    XCTAssertTrue([currencies[@"CURRENCIES"] isKindOfClass:[NSArray class]]);
-    XCTAssertGreaterThan([(NSArray *)currencies[@"CURRENCIES"] count], 0u);
+    [self assertEntries:currencies[@"CURRENCIES"]
+              namedKeys:@[@"VALUE", @"NAME", @"IMAGE", @"DESCRIPTION", @"READ", @"KARAOKE"]
+               fileHint:@"currencies.json"];
 
     NSDictionary *holidays = [self dictionaryFromContentJSONNamed:@"holiday"];
-    XCTAssertTrue([holidays[@"HOLIDAYS"] isKindOfClass:[NSArray class]]);
-    XCTAssertGreaterThan([(NSArray *)holidays[@"HOLIDAYS"] count], 0u);
+    [self assertEntries:holidays[@"HOLIDAYS"]
+              namedKeys:@[@"DATE", @"NAME", @"DESCRIPTION"]
+               fileHint:@"holiday.json"];
 }
 
 @end

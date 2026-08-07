@@ -65,6 +65,24 @@
     }];
 }
 
+- (void)assertHolidayDateFields:(NSDictionary *)entry index:(NSUInteger)idx
+{
+    NSString *fileHint = @"holiday.json";
+    NSString *date = entry[@"DATE"];
+    NSString *day = entry[@"DAY"];
+    NSString *month = entry[@"MONTH"];
+    NSString *year = entry[@"YEAR"];
+
+    NSRegularExpression *dateRegex = [NSRegularExpression regularExpressionWithPattern:@"^[0-9]{8}$" options:0 error:nil];
+    NSUInteger matches = [dateRegex numberOfMatchesInString:date options:0 range:NSMakeRange(0, date.length)];
+    XCTAssertEqual(matches, 1u, @"%@[%lu].DATE should be YYYYMMDD, got %@", fileHint, (unsigned long)idx, date);
+
+    if (year.length > 0 && month.length > 0 && day.length > 0) {
+        NSString *expected = [NSString stringWithFormat:@"%@%@%@", year, month, day];
+        XCTAssertEqualObjects(date, expected, @"%@[%lu].DATE should match YEAR+MONTH+DAY", fileHint, (unsigned long)idx);
+    }
+}
+
 - (void)testContentJSONIsStrictlyValid
 {
     NSDictionary *words = [self dictionaryFromContentJSONNamed:@"words"];
@@ -83,9 +101,13 @@
                fileHint:@"currencies.json"];
 
     NSDictionary *holidays = [self dictionaryFromContentJSONNamed:@"holiday"];
-    [self assertEntries:holidays[@"HOLIDAYS"]
+    NSArray *holidayEntries = holidays[@"HOLIDAYS"];
+    [self assertEntries:holidayEntries
               namedKeys:@[@"DATE", @"NAME", @"DESCRIPTION"]
                fileHint:@"holiday.json"];
+    [holidayEntries enumerateObjectsUsingBlock:^(id obj, NSUInteger idx, BOOL *stop) {
+        [self assertHolidayDateFields:(NSDictionary *)obj index:idx];
+    }];
 }
 
 @end

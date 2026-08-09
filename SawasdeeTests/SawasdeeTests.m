@@ -136,4 +136,17 @@
     }];
 }
 
+- (void)testCurrenciesHaveUniqueValues
+{
+    NSDictionary *currencies = [self dictionaryFromContentJSONNamed:@"currencies"];
+    NSArray *entries = currencies[@"CURRENCIES"];
+    NSMutableSet *seen = [NSMutableSet set];
+    [entries enumerateObjectsUsingBlock:^(id obj, NSUInteger idx, BOOL *stop) {
+        NSString *value = ((NSDictionary *)obj)[@"VALUE"];
+        XCTAssertNotNil(value, @"currencies.json[%lu] missing VALUE", (unsigned long)idx);
+        XCTAssertFalse([seen containsObject:value], @"Duplicate VALUE %@ at index %lu", value, (unsigned long)idx);
+        [seen addObject:value];
+    }];
+}
+
 @end

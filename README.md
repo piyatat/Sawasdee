@@ -28,7 +28,7 @@ Phrase catalogs live as strict JSON under `Sawasdee/`:
 - `currencies.json` — `CURRENCIES`
 - `holiday.json` — `HOLIDAYS`
 
-`SawasdeeTests` asserts these files parse with `NSJSONSerialization` (no trailing commas), that every row has the required fields (`WORD`/`TAG`/`MEANING`/`KARAOKE` for phrases, and the matching keys for categories, currencies, and holidays), and that each holiday `DATE` is `YYYYMMDD` and matches its `YEAR`/`MONTH`/`DAY` fields.
+`SawasdeeTests` asserts these files parse with `NSJSONSerialization` (no trailing commas), that every row has the required fields (`WORD`/`TAG`/`MEANING`/`KARAOKE` for phrases, and the matching keys for categories, currencies, and holidays), that each holiday `DATE` is `YYYYMMDD` and matches its `YEAR`/`MONTH`/`DAY` fields, and that `WORD`, category `NAME`, and currency `VALUE` entries are unique within their catalogs.
 
 ## Build
 
